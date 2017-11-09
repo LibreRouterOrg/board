@@ -1,0 +1,71 @@
+
+
+LibreRouter-LPC2 Rx/Tx
+----------------------
+                LPC-2
+								-----
+LPC-1			Eth			2.4GHz		5Ghz-1		5GHz-2
+-----		|	----------------------------------
+Eth			|	1000		45/29			98/33			98/30
+				|
+2.4GHz	|	23/40		15/12			27/25			27/25
+				|
+5GHz-1	|	30/55		34/17			17/15			24/22
+				|
+5GHz-2  | 30/24		35/20			32/20			17/13
+
+--------------------------------------------
+
+WD4300 - LPC2 Rx/Tx
+-------------------
+                LPC-2
+								-----
+LPC-1			Eth			2.4GHz		5GHz
+----- 	|	-----------------------
+Eth			|	1000		49/19			100/32
+				|
+2.4GHz	|	15/30		10/20			11/30
+				|
+5GHz    | 30/55		37/20			21/15  
+
+--------------------------------------
+
+Set-up
+------
+LPC-1 and LPC-2 are HP 6450b Laptops running Ubuntu 16.04. 
+These laptops have Intel 82577LC gigabit Ethernet ports and Intel Centrino N 6200 2.4GHz and 5GHz WiFi.
+
+The router being tested operates as a WiFi Access Point, with the laptops attached as a WiFi Client.
+
+For each test, the laptops are each connected to either an Ethernet port, 2.4GHz wifi, 5GHz-A wifi, or 5GHz-B wifi.
+
+A 300MB data file is then sent between the two laptops using the scp command.
+The first command copies the file from LPC-1 to LPC-2, and the second command copies
+the file from LPC-2 to LPC-1. Thus the Tx and Rx performance is tested in turn.
+
+For comparison, the tests were run on the LibreRouter prototype and a TP Link WDR4300 device.
+
+The end to end tests of necessity include the Ethernet and WiFi ports of the laptops, and their performance 
+will affect the test results to some extent.
+
+In the test where each laptop is connected to Ethernet, the data tranfser rate is 1Gbit/sec
+
+In the test where one laptop is connected to Ethernet and the other is connected to 5GHz Wifi, 
+the maximum data transfer rate is ~ 100Mbit/sec.
+
+In the test where one laptop is connected to Ethernet and the other is connected to 2.4GHz Wifi, 
+the maximum data transfer rate is ~ 40Mbit/sec. 
+
+It should be noted that the Librerouter prototype board used had not been properly calibrated for wifi operation,
+and the 2.4GHz wifi was fully operational on ANT1. ANT2 had incorrect RF output filter and ANT3 produced no Tx at all.
+
+The tests were run at short range (2 mtrs), with 5dBi antennas and the TxPower set to ~10dBm.
+
+
+Send and Receive Commands
+-------------------------
+Rx:  $ scp  <login-id>@192.168.0.x/home/<login-id>/<filename>  .
+ 
+Tx:  $ scp ./<filename>  <login-id>@192.168.0.x/home/<login-id>/
+
+

@@ -1,0 +1,57 @@
+Testing
+--------
+1. Four Ethernet ports are basically working.
+Re-work required for on-board RJ45s.
+PoE not able to be tested.
+
+2. QCA9558 primary radio is basically working.
+Issues with circuit error on ANT2, low TxPower output and low Rx Sensitivity.
+Circuit is complex around PA and LNA chips.
+Heatsinking required.
+
+3. PCIe 5GHz radios are basically working.
+Heatsinking required.
+
+4. Serial port and Uboot console are working.
+
+5. USB memory is detected OK as sda/sda1 and sdb/sdb1 in the two sockets.
+
+6. GPIO testing
+
+GPIOs 11, 12, 14, 15, 16, 18, 19, 20, 21 tested OK as simple GPIOs on I/O connectors.
+
+GPIOs 0, 1, 2, 3, 4, 13  fail testing as simple GPIOs. (These have reserved functions)
+
+GPIO 17, 23 fail  testing as a simple GPIO, but appear not to have a reserved function.
+Possibly reserved by kernel code in current firmware. 
+
+GPIO 17 drives the SWRST line but fails. Issue #14
+GPIO 20 drives the USB LED, and also appears on J13 Pin 11. Issue #11
+GPIO 22 drives the 2G WLAN LED 
+GPIO 23 drives the STATUS LED but fails. Issue #12
+
+
+7. Power consumption  (12V)
+
+With two PCIe 5GHz radios fitted:
+- 430mA with two PCIe boards and all three radios enabled.
+- 390mA with 2.4GHz and one 5GHz radio enabled.
+- 350mA with 2.4GHz radio only enabled.
+- 250mA with all three radios disabled.
+
+With one PCIe 5GHz radio boards installed:
+- 360mA with 2.4GHz and 5GHz radios enabled
+
+With no PCIe boards installed
+- 300mA with 2.4GHz radio enabled.
+
+8. Hardware Reset
+Possible conflict with GPIO 2 line used for ATTINY hardware reset
+
+9. Reboot
+Reboot command causes board to stop, but does not restart. Requires power cycle.
+
+10. Firmware
+Not able to build/load new firmware for the board
+
+
