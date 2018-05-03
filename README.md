@@ -1,2 +1,3 @@
-# librerouter-testing
-LibreRouter.org testing documentation
+# librerouter
+
+LibreRouter.org source router repo.
