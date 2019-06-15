@@ -6,11 +6,17 @@ LibreRouter.org source router repo.
 
 ![librerouter actual photo](https://raw.githubusercontent.com/libremesh/librerouter/master/designs/photos/prototipe_phase2.jpg)
 
-You will find two boards in the design/ folder:
+The librerouter is divided in 2 boards:
 * core: contains all the more integrated components, namely: cpu, memory, storage, watchdog. Facilitates the access to the pinouts of the cpu and keeps all the most integrated circuitry in one board.
 * mega board: contains the peripheral connectors.
 
+The fabrications files and support documentation can be found in _doc/_ and design files in _design_.
+
+---
+
 This hardware works great with the libremesh.org software.
+
+---
 
 More photos can be downloaded from http://downloads.libremesh.org/librerouter/librerouter_pics_core-v0.2_mega-v1.zip
 
