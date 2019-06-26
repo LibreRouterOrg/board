@@ -4,7 +4,7 @@ LibreRouter.org source router repo.
 
 ## Description
 
-![librerouter actual photo](https://raw.githubusercontent.com/libremesh/librerouter/master/designs/photos/prototipe_phase2.jpg)
+![librerouter actual photo](https://raw.githubusercontent.com/libremesh/librerouter/master/doc/photos/prototipe_phase2.jpg)
 
 The librerouter is divided in 2 boards:
 * core: contains all the more integrated components, namely: cpu, memory, storage, watchdog. Facilitates the access to the pinouts of the cpu and keeps all the most integrated circuitry in one board.
