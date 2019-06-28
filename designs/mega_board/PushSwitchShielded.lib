@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# push_switch_SH
+#
+DEF push_switch_SH S 0 40 Y Y 1 F N
+F0 "S" 400 50 50 H V C CNN
+F1 "push_switch_SH" 400 200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 136 6 0 1 0 N
+C 0 136 11 0 1 0 N
+C 0 136 16 0 1 0 N
+C 0 -139 6 1 1 0 N
+C 0 -139 11 1 1 0 N
+C 0 -139 16 1 1 0 N
+P 2 0 1 0 0 -200 0 -100 N
+P 2 0 1 0 0 -100 75 100 N
+P 2 0 1 0 0 100 0 250 N
+P 2 0 1 0 0 100 25 100 N
+P 2 0 1 0 39 0 81 0 N
+P 2 0 1 0 80 0 63 11 N
+P 2 0 1 0 80 0 65 -12 N
+P 2 0 1 0 100 0 125 0 N
+P 2 0 1 0 125 -25 125 25 N
+P 4 0 1 0 -50 150 -100 150 -100 -150 -50 -150 N
+X ~ 1 0 -300 100 U 50 50 1 1 B
+X ~ 2 0 300 100 D 50 50 1 1 B
+X ~ 3 -200 50 100 R 50 50 1 1 I
+X ~ 4 -200 -50 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
