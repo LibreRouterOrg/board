@@ -14,7 +14,7 @@
    viewBox="0 0 661.45836 449.79168"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="general_block_diagram_spanish.svg">
   <defs
      id="defs18" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="653.46161"
-     inkscape:cy="913.74476"
+     inkscape:cx="1236.6699"
+     inkscape:cy="521.48461"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
      inkscape:window-x="0"
-     inkscape:window-y="1098"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,14 +54,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,152.79169)">
-    <rect
-       style="fill:#e1f5e8;fill-opacity:1;stroke:#000000;stroke-width:1.16499996;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4789"
-       width="403.52335"
-       height="370.54025"
-       x="59.938213"
-       y="-116.73324"
-       ry="3.779758" />
+    <path
+       style="fill:#e1f5e8;fill-opacity:1;stroke:#000000;stroke-width:4.47552586;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 190.27344 136.2832 C 182.35916 136.2832 175.98828 142.65604 175.98828 150.57031 L 175.98828 1522.4648 C 175.98828 1530.3791 182.35916 1536.752 190.27344 1536.752 L 1737.3809 1536.752 C 1745.2951 1536.752 1751.666 1530.3791 1751.666 1522.4648 L 1751.666 150.57031 C 1751.666 142.65604 1745.2951 136.2832 1737.3809 136.2832 L 190.27344 136.2832 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-152.79169)"
+       id="rect4789" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.46500015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 296.66917,198.43573 V 20.317863"
@@ -184,14 +181,6 @@
        width="158.56105"
        id="rect5373-5-4-8"
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.46500015;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.39500015, 1.46500005;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="14.741068"
-       y="233.31097"
-       x="51.442562"
-       height="47.247025"
-       width="123.59821"
-       id="rect5373-1"
-       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.46500015;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.39500005, 1.46500001;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g4675"
        transform="translate(61.434003,-163.70247)">
@@ -512,17 +501,29 @@
          y="150.36971"
          style="stroke-width:0.26458332"
          id="tspan5115" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="66.577873"
-       y="272.41116"
-       id="text5119"><tspan
-         sodipodi:role="line"
-         x="66.577873"
+    <g
+       id="g4692"
+       transform="matrix(1.0534973,0,0,1,-9.3642171,0)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.48174214;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.44522604, 1.48174201;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5373-1"
+         width="126.43931"
+         height="47.247025"
+         x="48.601463"
+         y="233.31097"
+         ry="14.741068" />
+      <text
+         id="text5119"
          y="272.41116"
-         style="stroke-width:0.26458332"
-         id="tspan5121">Alimentación 12V</tspan></text>
+         x="65.157303"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5121"
+           style="stroke-width:0.26458332"
+           y="272.41116"
+           x="65.157303"
+           sodipodi:role="line">Alimentación 12V</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -651,5 +652,52 @@
          y="-127.88438"
          style="stroke-width:0.26458332"
          id="tspan5121-7">Interfaz USB</tspan></text>
+    <g
+       id="g4687"
+       transform="translate(-10.583334,0.52916667)">
+      <g
+         transform="matrix(1.2531574,0,0,0.99817324,117.99063,-72.481356)"
+         id="g4675-8-3">
+        <g
+           transform="translate(-21.166667,49.212503)"
+           id="g4997-6">
+          <g
+             transform="matrix(0.45226452,0,0,0.42587142,-27.377835,-10.949861)"
+             id="g4652">
+            <rect
+               style="fill:#89f5b4;fill-opacity:1;stroke:#000000;stroke-width:1.16499996;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect41-35-9-7"
+               width="105.07739"
+               height="77.863091"
+               x="11.339284"
+               y="84.199402"
+               ry="3.7797618" />
+          </g>
+        </g>
+      </g>
+      <text
+         id="text4667-7-6"
+         y="20.973267"
+         x="93.665016"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="20.973267"
+           x="93.665016"
+           sodipodi:role="line"
+           id="tspan4991-9">Watchdog</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4862-3-1-0-2"
+       d="M 73.073837,58.122871 H 91.176598"
+       style="fill:none;stroke:#000000;stroke-width:0.74262059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4862-3-1-0-2-7"
+       d="M 73.073837,35.209262 V 58.122871"
+       style="fill:none;stroke:#000000;stroke-width:0.83549017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
