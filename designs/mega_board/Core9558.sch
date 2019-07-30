@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 9
+Sheet 2 14
 Title "LibreRouter - Megaboard"
 Date "2019-06-26"
 Rev "2.0"
