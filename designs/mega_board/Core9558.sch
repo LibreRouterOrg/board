@@ -14,17 +14,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L LibreRouter_MegaBoard-rescue:Core9558-Core9558 U?
-U 1 1 5D206126
-P 8600 4950
-F 0 "U?" H 8550 5100 50  0000 L CNN
-F 1 "Core9558" H 8400 4750 50  0000 L CNN
-F 2 "MODULE" H 8600 4600 50  0001 C CNN
-F 3 "DOCUMENTATION" H 8600 4700 50  0001 C CNN
-	1    8600 4950
-	1    0    0    -1  
-$EndComp
 Text HLabel 2200 1350 0    50   Input ~ 0
 5V_1
 Text HLabel 2200 1450 0    50   Input ~ 0
@@ -731,4 +720,15 @@ Wire Wire Line
 Connection ~ 7750 3000
 Wire Wire Line
 	7750 3000 7850 3000
+$Comp
+L Core9558:Core9558 U?
+U 1 1 5D47B6E1
+P 8600 4950
+F 0 "U?" H 11591 4996 50  0000 L CNN
+F 1 "Core9558" H 11591 4905 50  0000 L CNN
+F 2 "MODULE" H 8600 4600 50  0001 C CNN
+F 3 "DOCUMENTATION" H 8600 4700 50  0001 C CNN
+	1    8600 4950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
