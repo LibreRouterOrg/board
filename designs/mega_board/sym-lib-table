@@ -8,4 +8,5 @@
   (lib (name USB_HUB_FE1_1s)(type Legacy)(uri ${LIBREROUTER_GIT_PATH}/designs/mega_board/USB_HUB_FE1_1s.lib)(options "")(descr ""))
   (lib (name QT48A03)(type Legacy)(uri ${LIBREROUTER_GIT_PATH}/designs/mega_board/QT48A03.lib)(options "")(descr ""))
   (lib (name 3R420L)(type Legacy)(uri ${LIBREROUTER_GIT_PATH}/designs/mega_board/3R420L.lib)(options "")(descr ""))
+  (lib (name RJ45_DOUBLE_SHIELDED)(type Legacy)(uri ${LIBREROUTER_GIT_PATH}//designs/mega_board/RJ45_DOUBLE_SHIELDED.lib)(options "")(descr ""))
 )
