@@ -505,7 +505,7 @@ Connection ~ 12600 5900
 Text Label 2650 1250 0    50   ~ 0
 5V0_2GPA
 Text Label 13000 5900 0    50   ~ 0
-5V1
+5V_1
 Text Label 2650 1450 0    50   ~ 0
 3V3
 Wire Wire Line
@@ -664,7 +664,7 @@ $EndComp
 Text Label 4950 8650 0    50   ~ 0
 5V0_2GPA
 Text Label 4950 8400 0    50   ~ 0
-5V1
+5V_1
 Wire Wire Line
 	11750 5300 11750 4400
 Wire Wire Line
@@ -673,7 +673,7 @@ Connection ~ 11750 5300
 Text Label 5000 2250 0    50   ~ 0
 3V3
 Text Label 2650 1350 0    50   ~ 0
-5V1
+5V_1
 Wire Wire Line
 	5500 4400 5350 4400
 Wire Wire Line
