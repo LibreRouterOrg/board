@@ -756,8 +756,6 @@ Text Label 7900 8050 0    50   ~ 0
 GPIO0
 Text Label 7900 8150 0    50   ~ 0
 GPIO1
-Text Label 7900 8250 0    50   ~ 0
-GPIO2
 Text Label 7900 8350 0    50   ~ 0
 GPIO3
 Text Label 7900 6400 0    50   ~ 0
@@ -1166,8 +1164,8 @@ Text Label 14750 3350 0    50   ~ 0
 USB2_N
 Text Label 14750 3450 0    50   ~ 0
 USB2_P
-Text Label 6950 13150 2    50   ~ 0
-GPIO2
+Text Label 6950 13150 0    50   ~ 0
+WD_PCIe0_WAKE
 $Comp
 L Device:R R?
 U 1 1 5D171F88
@@ -3209,8 +3207,6 @@ Wire Wire Line
 	19450 2550 19150 2550
 Wire Wire Line
 	18300 2550 18850 2550
-Text Label 18650 2150 0    50   ~ 0
-GPIO2
 Text Label 18650 5650 0    50   ~ 0
 GPIO3
 Text Label 18650 2350 0    50   ~ 0
@@ -3544,4 +3540,8 @@ Wire Wire Line
 Connection ~ 3450 15700
 Wire Wire Line
 	3450 15700 3450 15600
+Text Label 7900 8250 0    50   ~ 0
+WD_PCIe0_WAKE
+Text Label 18650 2150 0    50   ~ 0
+WD_PCIe0_WAKE
 $EndSCHEMATC
