@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 8 14
+Sheet 11 14
 Title "LibreRouter - Megaboard"
 Date "2019-06-26"
 Rev "2.0"
@@ -278,8 +278,6 @@ Connection ~ 4650 4400
 Wire Wire Line
 	4650 4400 4650 4700
 Connection ~ 4650 4700
-Wire Wire Line
-	4650 4700 4650 4800
 Connection ~ 4650 5100
 Wire Wire Line
 	4950 5000 4850 5000
@@ -447,9 +445,6 @@ F 3 "~" H 3150 4600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3000 4600 2500 4600
-Connection ~ 4650 4800
-Wire Wire Line
-	4650 4800 4650 5100
 NoConn ~ 4550 3800
 NoConn ~ 4550 3900
 NoConn ~ 4550 5200
@@ -481,8 +476,6 @@ Wire Wire Line
 	4550 5200 4950 5200
 Wire Wire Line
 	4650 5100 4950 5100
-Wire Wire Line
-	4650 4800 4950 4800
 Wire Wire Line
 	4650 4700 4950 4700
 Wire Wire Line
@@ -530,4 +523,9 @@ Text Label 1700 1350 0    50   ~ 0
 5V
 Wire Wire Line
 	6450 5100 7400 5100
+Wire Wire Line
+	4650 4700 4650 5100
+NoConn ~ 4550 4800
+Wire Wire Line
+	4550 4800 4950 4800
 $EndSCHEMATC
