@@ -518,14 +518,9 @@ Wire Wire Line
 	7350 3100 7350 2250
 Wire Wire Line
 	7350 2250 5000 2250
-Wire Wire Line
-	7650 2250 7650 3100
 Connection ~ 7350 2250
 Wire Wire Line
 	7550 3100 7550 2250
-Connection ~ 7550 2250
-Wire Wire Line
-	7550 2250 7650 2250
 Wire Wire Line
 	7450 3100 7450 2250
 Wire Wire Line
@@ -714,7 +709,7 @@ Wire Wire Line
 Wire Wire Line
 	5400 3000 5400 3100
 Wire Wire Line
-	5400 3000 7750 3000
+	5400 3000 7650 3000
 Wire Wire Line
 	7750 3100 7750 3000
 Connection ~ 7750 3000
@@ -731,4 +726,9 @@ F 3 "DOCUMENTATION" H 8600 4700 50  0001 C CNN
 	1    8600 4950
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	7650 3100 7650 3000
+Connection ~ 7650 3000
+Wire Wire Line
+	7650 3000 7750 3000
 $EndSCHEMATC
