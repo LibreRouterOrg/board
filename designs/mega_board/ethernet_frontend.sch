@@ -14,69 +14,69 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 1350 2200 0    50   BiDi ~ 0
-AT_TRX0_N
-Text HLabel 1350 2600 0    50   BiDi ~ 0
-AT_TRX0_P
-Text HLabel 1350 4000 0    50   BiDi ~ 0
-AT_TRX1_N
-Text HLabel 1350 4400 0    50   BiDi ~ 0
-AT_TRX1_P
-Text HLabel 1350 5700 0    50   BiDi ~ 0
-AT_TRX2_N
-Text HLabel 1350 6100 0    50   BiDi ~ 0
-AT_TRX2_P
 Text HLabel 1350 7500 0    50   BiDi ~ 0
-AT_TRX3_N
+AT_TRX0_N
 Text HLabel 1350 7900 0    50   BiDi ~ 0
+AT_TRX0_P
+Text HLabel 1350 5700 0    50   BiDi ~ 0
+AT_TRX1_N
+Text HLabel 1350 6100 0    50   BiDi ~ 0
+AT_TRX1_P
+Text HLabel 1350 4000 0    50   BiDi ~ 0
+AT_TRX2_N
+Text HLabel 1350 4400 0    50   BiDi ~ 0
+AT_TRX2_P
+Text HLabel 1350 2200 0    50   BiDi ~ 0
+AT_TRX3_N
+Text HLabel 1350 2600 0    50   BiDi ~ 0
 AT_TRX3_P
-Text HLabel 7000 2200 0    50   BiDi ~ 0
-BT_TRX0_N
-Text HLabel 7000 2600 0    50   BiDi ~ 0
-BT_TRX0_P
-Text HLabel 7000 4000 0    50   BiDi ~ 0
-BT_TRX1_N
-Text HLabel 7000 4400 0    50   BiDi ~ 0
-BT_TRX1_P
-Text HLabel 7000 5700 0    50   BiDi ~ 0
-BT_TRX2_N
-Text HLabel 7000 6100 0    50   BiDi ~ 0
-BT_TRX2_P
 Text HLabel 7000 7500 0    50   BiDi ~ 0
-BT_TRX3_N
+BT_TRX0_N
 Text HLabel 7000 7900 0    50   BiDi ~ 0
+BT_TRX0_P
+Text HLabel 7000 5700 0    50   BiDi ~ 0
+BT_TRX1_N
+Text HLabel 7000 6100 0    50   BiDi ~ 0
+BT_TRX1_P
+Text HLabel 7000 4000 0    50   BiDi ~ 0
+BT_TRX2_N
+Text HLabel 7000 4400 0    50   BiDi ~ 0
+BT_TRX2_P
+Text HLabel 7000 2200 0    50   BiDi ~ 0
+BT_TRX3_N
+Text HLabel 7000 2600 0    50   BiDi ~ 0
 BT_TRX3_P
-Text HLabel 5100 2150 2    50   BiDi ~ 0
-AM_TRX0_N
-Text HLabel 5100 2650 2    50   BiDi ~ 0
-AM_TRX0_P
-Text HLabel 5100 3950 2    50   BiDi ~ 0
-AM_TRX1_N
-Text HLabel 5100 4450 2    50   BiDi ~ 0
-AM_TRX1_P
-Text HLabel 5100 5650 2    50   BiDi ~ 0
-AM_TRX2_N
-Text HLabel 5100 6150 2    50   BiDi ~ 0
-AM_TRX2_P
 Text HLabel 5100 7450 2    50   BiDi ~ 0
-AM_TRX3_N
+AM_TRX0_N
 Text HLabel 5100 7950 2    50   BiDi ~ 0
+AM_TRX0_P
+Text HLabel 5100 5650 2    50   BiDi ~ 0
+AM_TRX1_N
+Text HLabel 5100 6150 2    50   BiDi ~ 0
+AM_TRX1_P
+Text HLabel 5100 3950 2    50   BiDi ~ 0
+AM_TRX2_N
+Text HLabel 5100 4450 2    50   BiDi ~ 0
+AM_TRX2_P
+Text HLabel 5100 2150 2    50   BiDi ~ 0
+AM_TRX3_N
+Text HLabel 5100 2650 2    50   BiDi ~ 0
 AM_TRX3_P
-Text HLabel 10750 2150 2    50   BiDi ~ 0
-BM_TRX0_N
-Text HLabel 10750 2650 2    50   BiDi ~ 0
-BM_TRX0_P
-Text HLabel 10750 3950 2    50   BiDi ~ 0
-BM_TRX1_N
-Text HLabel 10750 4450 2    50   BiDi ~ 0
-BM_TRX1_P
-Text HLabel 10750 5650 2    50   BiDi ~ 0
-BM_TRX2_N
-Text HLabel 10750 6150 2    50   BiDi ~ 0
-BM_TRX2_P
 Text HLabel 10750 7450 2    50   BiDi ~ 0
-BM_TRX3_N
+BM_TRX0_N
 Text HLabel 10750 7950 2    50   BiDi ~ 0
+BM_TRX0_P
+Text HLabel 10750 5650 2    50   BiDi ~ 0
+BM_TRX1_N
+Text HLabel 10750 6150 2    50   BiDi ~ 0
+BM_TRX1_P
+Text HLabel 10750 3950 2    50   BiDi ~ 0
+BM_TRX2_N
+Text HLabel 10750 4450 2    50   BiDi ~ 0
+BM_TRX2_P
+Text HLabel 10750 2150 2    50   BiDi ~ 0
+BM_TRX3_N
+Text HLabel 10750 2650 2    50   BiDi ~ 0
 BM_TRX3_P
 Text HLabel 14550 8100 2    50   Input ~ 0
 POE_INJECTION_EN
