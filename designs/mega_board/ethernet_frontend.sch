@@ -1440,4 +1440,6 @@ Text HLabel 1500 1000 0    50   Input ~ 0
 DISCHARGE
 Wire Wire Line
 	2150 1000 1500 1000
+Text Notes 12600 7400 0    31   ~ 0
+This series resitor between \nPMOS gate and NMOS D is \nto keep PMOS Vgs at nomila \nvalues when the input POE \nvoltage is used at full range
 $EndSCHEMATC
