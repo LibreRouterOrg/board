@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:LibreRouter_MegaBoard-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -408,9 +408,11 @@ F 3 "" H 5200 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Crystal_GND24_Small X2
+L LibreRouter_MegaBoard-rescue:Crystal_GND24_Small-Device X2
 U 1 1 5D497A3C
 P 2600 3250
+AR Path="/5D497A3C" Ref="X2"  Part="1" 
+AR Path="/5D032896/5D497A3C" Ref="X2"  Part="1" 
 F 0 "X2" V 3000 3250 50  0000 R CNN
 F 1 "YSX321SL 12MHz" V 2900 3250 50  0000 R CNN
 F 2 "LibreRouter_MegaBoard:SMARTPRJ_CRYSTAL-3.2-2.5" H 2600 3250 50  0001 C CNN

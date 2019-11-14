@@ -13,4 +13,5 @@
   (lib (name ethernet_2port)(type Legacy)(uri ${KIPRJMOD}/ethernet_2port.lib)(options "")(descr ""))
   (lib (name nmosfet)(type Legacy)(uri ${KIPRJMOD}/nmosfet.lib)(options "")(descr ""))
   (lib (name p-mosfet_so8)(type Legacy)(uri ${KIPRJMOD}/p-mosfet_so8.lib)(options "")(descr ""))
+  (lib (name LibreRouter_MegaBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/LibreRouter_MegaBoard-rescue.lib)(options "")(descr ""))
 )
