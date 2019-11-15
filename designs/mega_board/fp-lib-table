@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LibreRouter_MegaBoard)(type KiCad)(uri ${KIPRJMOD}/LibreRouter_MegaBoard.pretty)(options "")(descr ""))
+)
