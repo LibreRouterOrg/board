@@ -341,6 +341,10 @@ F 0 "L1" V 3875 1100 50  0000 C CNN
 F 1 "4A, GR30-400" V 3966 1100 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:GR72-135" H 4150 900 50  0001 L CNN
 F 3 "~" H 4100 1100 50  0001 C CNN
+F 4 "Littelfuse Inc." H 4100 1100 50  0001 C CNN "Manufacturer"
+F 5 "RUEF400-2" H 4100 1100 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 4100 1100 50  0001 C CNN "Supplier"
+F 7 "RUEF400-2HFCT-ND" H 4100 1100 50  0001 C CNN "Supplier PN"
 	1    4100 1100
 	0    1    1    0   
 $EndComp
