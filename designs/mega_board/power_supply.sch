@@ -225,6 +225,10 @@ F 0 "D13" H 2200 684 50  0000 C CNN
 F 1 "MBRS540T3" H 2200 775 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:SMC" H 2200 900 50  0001 C CNN
 F 3 "~" H 2200 900 50  0001 C CNN
+F 4 "ON Semiconductor" H 2200 900 50  0001 C CNN "Manufacturer"
+F 5 "MBRS540T3G" H 2200 900 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2200 900 50  0001 C CNN "Supplier"
+F 7 "MBRS540T3GOSDKR-ND" H 2200 900 50  0001 C CNN "Supplier PN"
 	1    2200 900 
 	-1   0    0    1   
 $EndComp
@@ -236,6 +240,10 @@ F 0 "D25" V 3604 1529 50  0000 L CNN
 F 1 "SMBJ40CA" V 3695 1529 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:DO-214AA" H 3650 1450 50  0001 C CNN
 F 3 "~" H 3650 1450 50  0001 C CNN
+F 4 "Littelfuse Inc." H 3650 1450 50  0001 C CNN "Manufacturer"
+F 5 "SMBJ40CA" H 3650 1450 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 3650 1450 50  0001 C CNN "Supplier"
+F 7 "SMBJ40CALFDKR-ND" H 3650 1450 50  0001 C CNN "Supplier PN"
 	1    3650 1450
 	0    1    1    0   
 $EndComp
@@ -247,6 +255,10 @@ F 0 "D2" V 4404 1529 50  0000 L CNN
 F 1 "SS14" V 4495 1529 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:DO214AC" H 4450 1450 50  0001 C CNN
 F 3 "~" H 4450 1450 50  0001 C CNN
+F 4 "ON Semiconductor" H 4450 1450 50  0001 C CNN "Manufacturer"
+F 5 "SS14" H 4450 1450 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 4450 1450 50  0001 C CNN "Supplier"
+F 7 "SS14CT-ND" H 4450 1450 50  0001 C CNN "Supplier PN"
 	1    4450 1450
 	0    1    1    0   
 $EndComp
@@ -273,6 +285,10 @@ F 0 "D14" H 2200 1184 50  0000 C CNN
 F 1 "MBRS540T3" H 2200 1275 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:SMC" H 2200 1400 50  0001 C CNN
 F 3 "~" H 2200 1400 50  0001 C CNN
+F 4 "ON Semiconductor" H 2200 1400 50  0001 C CNN "Manufacturer"
+F 5 "MBRS540T3G" H 2200 1400 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2200 1400 50  0001 C CNN "Supplier"
+F 7 "MBRS540T3GOSDKR-ND" H 2200 1400 50  0001 C CNN "Supplier PN"
 	1    2200 1400
 	-1   0    0    1   
 $EndComp

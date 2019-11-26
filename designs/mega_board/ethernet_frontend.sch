@@ -137,6 +137,7 @@ F 0 "D9" V 1654 2479 50  0000 L CNN
 F 1 "BS05C" V 1745 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 2400 50  0001 C CNN
 F 3 "~" H 1700 2400 50  0001 C CNN
+F 4 "DigiKey" H 1700 2400 50  0001 C CNN "Supplier"
 	1    1700 2400
 	0    1    1    0   
 $EndComp
@@ -246,6 +247,7 @@ F 0 "D8" V 1654 4279 50  0000 L CNN
 F 1 "BS05C" V 1745 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 4200 50  0001 C CNN
 F 3 "~" H 1700 4200 50  0001 C CNN
+F 4 "DigiKey" H 1700 4200 50  0001 C CNN "Supplier"
 	1    1700 4200
 	0    1    1    0   
 $EndComp
@@ -355,6 +357,7 @@ F 0 "D10" V 1654 5979 50  0000 L CNN
 F 1 "BS05C" V 1745 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 5900 50  0001 C CNN
 F 3 "~" H 1700 5900 50  0001 C CNN
+F 4 "DigiKey" H 1700 5900 50  0001 C CNN "Supplier"
 	1    1700 5900
 	0    1    1    0   
 $EndComp
@@ -464,6 +467,7 @@ F 0 "D11" V 1654 7779 50  0000 L CNN
 F 1 "BS05C" V 1745 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 7700 50  0001 C CNN
 F 3 "~" H 1700 7700 50  0001 C CNN
+F 4 "DigiKey" H 1700 7700 50  0001 C CNN "Supplier"
 	1    1700 7700
 	0    1    1    0   
 $EndComp
@@ -573,6 +577,7 @@ F 0 "D4" V 7304 2479 50  0000 L CNN
 F 1 "BS05C" V 7395 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 2400 50  0001 C CNN
 F 3 "~" H 7350 2400 50  0001 C CNN
+F 4 "DigiKey" H 7350 2400 50  0001 C CNN "Supplier"
 	1    7350 2400
 	0    1    1    0   
 $EndComp
@@ -682,6 +687,7 @@ F 0 "D3" V 7304 4279 50  0000 L CNN
 F 1 "BS05C" V 7395 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 4200 50  0001 C CNN
 F 3 "~" H 7350 4200 50  0001 C CNN
+F 4 "DigiKey" H 7350 4200 50  0001 C CNN "Supplier"
 	1    7350 4200
 	0    1    1    0   
 $EndComp
@@ -791,6 +797,7 @@ F 0 "D6" V 7304 5979 50  0000 L CNN
 F 1 "BS05C" V 7395 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 5900 50  0001 C CNN
 F 3 "~" H 7350 5900 50  0001 C CNN
+F 4 "DigiKey" H 7350 5900 50  0001 C CNN "Supplier"
 	1    7350 5900
 	0    1    1    0   
 $EndComp
@@ -900,6 +907,7 @@ F 0 "D7" V 7304 7779 50  0000 L CNN
 F 1 "BS05C" V 7395 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 7700 50  0001 C CNN
 F 3 "~" H 7350 7700 50  0001 C CNN
+F 4 "DigiKey" H 7350 7700 50  0001 C CNN "Supplier"
 	1    7350 7700
 	0    1    1    0   
 $EndComp
