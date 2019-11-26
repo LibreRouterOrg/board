@@ -1035,6 +1035,10 @@ F 1 "75" V 14300 1550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1650 50  0001 C CNN
 F 3 "~" H 14400 1650 50  0001 C CNN
 F 4 "DNP" H 14400 1650 50  0001 C CNN "DNP"
+F 5 "Panasonic Electronic Components" H 14400 1650 50  0001 C CNN "Manufacturer"
+F 6 "ERJ-2BWFR075X" H 14400 1650 50  0001 C CNN "Manufacturer PN"
+F 7 "DigiKey" H 14400 1650 50  0001 C CNN "Supplier"
+F 8 "P.075ATDKR-ND" H 14400 1650 50  0001 C CNN "Supplier PN"
 	1    14400 1650
 	0    1    1    0   
 $EndComp
@@ -1046,6 +1050,10 @@ F 0 "R6" V 14300 2050 50  0000 C CNN
 F 1 "75" V 14300 1850 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1950 50  0001 C CNN
 F 3 "~" H 14400 1950 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 1950 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 1950 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 1950 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 1950 50  0001 C CNN "Supplier PN"
 	1    14400 1950
 	0    1    1    0   
 $EndComp
@@ -1057,6 +1065,10 @@ F 0 "R29" V 14300 2350 50  0000 C CNN
 F 1 "75" V 14300 2150 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2250 50  0001 C CNN
 F 3 "~" H 14400 2250 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2250 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2250 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2250 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2250 50  0001 C CNN "Supplier PN"
 	1    14400 2250
 	0    1    1    0   
 $EndComp
@@ -1068,6 +1080,10 @@ F 0 "R30" V 14300 2650 50  0000 C CNN
 F 1 "75" V 14300 2450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2550 50  0001 C CNN
 F 3 "~" H 14400 2550 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2550 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2550 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2550 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2550 50  0001 C CNN "Supplier PN"
 	1    14400 2550
 	0    1    1    0   
 $EndComp
@@ -1079,6 +1095,10 @@ F 0 "R31" V 14300 2950 50  0000 C CNN
 F 1 "75" V 14300 2750 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2850 50  0001 C CNN
 F 3 "~" H 14400 2850 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2850 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2850 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2850 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2850 50  0001 C CNN "Supplier PN"
 	1    14400 2850
 	0    1    1    0   
 $EndComp
@@ -1102,6 +1122,10 @@ F 0 "R1" V 14300 1450 50  0000 C CNN
 F 1 "75" V 14300 1250 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1350 50  0001 C CNN
 F 3 "~" H 14400 1350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 1350 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 1350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 1350 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 1350 50  0001 C CNN "Supplier PN"
 	1    14400 1350
 	0    1    1    0   
 $EndComp
@@ -1181,10 +1205,14 @@ $Comp
 L Device:R R5
 U 1 1 5D6301C2
 P 13200 4350
-F 0 "R5" V 13100 4450 50  0000 C CNN
-F 1 "75" V 13100 4250 50  0000 C CNN
+F 0 "R5" H 13050 4350 50  0000 C CNN
+F 1 "75" H 13050 4450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13130 4350 50  0001 C CNN
 F 3 "~" H 13200 4350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13200 4350 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 13200 4350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13200 4350 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 13200 4350 50  0001 C CNN "Supplier PN"
 	1    13200 4350
 	-1   0    0    1   
 $EndComp
@@ -1224,6 +1252,10 @@ F 0 "R4" H 14600 6700 50  0000 C CNN
 F 1 "75" H 14600 6800 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14680 6700 50  0001 C CNN
 F 3 "~" H 14750 6700 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14750 6700 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14750 6700 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14750 6700 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14750 6700 50  0001 C CNN "Supplier PN"
 	1    14750 6700
 	-1   0    0    1   
 $EndComp
@@ -1261,6 +1293,10 @@ F 0 "R22" V 12650 1750 50  0000 C CNN
 F 1 "0" V 12650 1550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 12680 1650 50  0001 C CNN
 F 3 "~" H 12750 1650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12750 1650 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 12750 1650 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 12750 1650 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 12750 1650 50  0001 C CNN "Supplier PN"
 	1    12750 1650
 	0    1    1    0   
 $EndComp
@@ -1274,6 +1310,10 @@ F 0 "R8" V 12650 1450 50  0000 C CNN
 F 1 "0" V 12650 1250 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 12680 1350 50  0001 C CNN
 F 3 "~" H 12750 1350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12750 1350 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 12750 1350 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 12750 1350 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 12750 1350 50  0001 C CNN "Supplier PN"
 	1    12750 1350
 	0    1    1    0   
 $EndComp
@@ -1314,6 +1354,10 @@ F 0 "R25" V 13450 4150 50  0000 C CNN
 F 1 "0" V 13450 3950 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 13480 4050 50  0001 C CNN
 F 3 "~" H 13550 4050 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13550 4050 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 13550 4050 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 13550 4050 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 13550 4050 50  0001 C CNN "Supplier PN"
 	1    13550 4050
 	0    1    1    0   
 $EndComp
@@ -1337,9 +1381,13 @@ L Device:R R33
 U 1 1 5D8661A5
 P 14350 6450
 F 0 "R33" V 14250 6450 50  0000 C CNN
-F 1 "0R 1/10W" V 14150 6550 50  0000 C CNN
+F 1 "0 1/10W" V 14150 6550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0603" V 14280 6450 50  0001 C CNN
 F 3 "~" H 14350 6450 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14350 6450 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 14350 6450 50  0001 C CNN "Supplier"
+F 6 "ERJ-3GEY0R00V" H 14350 6450 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0GDKR-ND" H 14350 6450 50  0001 C CNN "Supplier PN"
 	1    14350 6450
 	0    1    1    0   
 $EndComp
@@ -1351,6 +1399,10 @@ F 0 "R32" H 13150 7050 50  0000 C CNN
 F 1 "68k" H 13150 7150 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13230 7050 50  0001 C CNN
 F 3 "~" H 13300 7050 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13300 7050 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F6802X" H 13300 7050 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13300 7050 50  0001 C CNN "Supplier"
+F 7 "P17235DKR-ND" H 13300 7050 50  0001 C CNN "Supplier PN"
 	1    13300 7050
 	-1   0    0    1   
 $EndComp
@@ -1362,6 +1414,10 @@ F 0 "R57" V 13050 6900 50  0000 C CNN
 F 1 "100k" V 13050 6700 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 12880 6800 50  0001 C CNN
 F 3 "~" H 12950 6800 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12950 6800 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1003X" H 12950 6800 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 12950 6800 50  0001 C CNN "Supplier"
+F 7 "P17236DKR-ND" H 12950 6800 50  0001 C CNN "Supplier PN"
 	1    12950 6800
 	0    1    1    0   
 $EndComp
@@ -1370,9 +1426,13 @@ L Device:R R3
 U 1 1 5D88FC3A
 P 13950 8200
 F 0 "R3" V 13850 8300 50  0000 C CNN
-F 1 "4k7" V 13850 8100 50  0000 C CNN
+F 1 "4.7k" V 13850 8100 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13880 8200 50  0001 C CNN
 F 3 "~" H 13950 8200 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13950 8200 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2GEJ472X" H 13950 8200 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13950 8200 50  0001 C CNN "Supplier"
+F 7 "P4.7KJDKR-ND" H 13950 8200 50  0001 C CNN "Supplier PN"
 	1    13950 8200
 	0    -1   -1   0   
 $EndComp
@@ -1384,6 +1444,10 @@ F 0 "R44" H 13850 8600 50  0000 C CNN
 F 1 "47k" H 13850 8450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13630 8550 50  0001 C CNN
 F 3 "~" H 13700 8550 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13700 8550 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F4702X" H 13700 8550 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13700 8550 50  0001 C CNN "Supplier"
+F 7 "P17234DKR-ND" H 13700 8550 50  0001 C CNN "Supplier PN"
 	1    13700 8550
 	1    0    0    -1  
 $EndComp

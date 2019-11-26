@@ -56,6 +56,10 @@ F 0 "R60" H 2670 3696 50  0000 L CNN
 F 1 "100k" H 2670 3605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 2530 3650 50  0001 C CNN
 F 3 "~" H 2600 3650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 2600 3650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1003X" H 2600 3650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2600 3650 50  0001 C CNN "Supplier"
+F 7 "P17236DKR-ND" H 2600 3650 50  0001 C CNN "Supplier PN"
 	1    2600 3650
 	1    0    0    -1  
 $EndComp
@@ -143,6 +147,10 @@ F 0 "R18" H 7620 3696 50  0000 L CNN
 F 1 "100k" H 7620 3605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 7480 3650 50  0001 C CNN
 F 3 "~" H 7550 3650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 7550 3650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1003X" H 7550 3650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 7550 3650 50  0001 C CNN "Supplier"
+F 7 "P17236DKR-ND" H 7550 3650 50  0001 C CNN "Supplier PN"
 	1    7550 3650
 	1    0    0    -1  
 $EndComp

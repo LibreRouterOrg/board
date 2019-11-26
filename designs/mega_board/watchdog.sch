@@ -46,9 +46,13 @@ L Device:R R53
 U 1 1 5D15016D
 P 6750 4150
 F 0 "R53" H 6820 4196 50  0000 L CNN
-F 1 "10k" H 6820 4105 50  0000 L CNN
+F 1 "10k 1%" H 6820 4105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 6680 4150 50  0001 C CNN
 F 3 "~" H 6750 4150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 6750 4150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 6750 4150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 6750 4150 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 6750 4150 50  0001 C CNN "Supplier PN"
 	1    6750 4150
 	1    0    0    -1  
 $EndComp
@@ -109,9 +113,13 @@ L Device:R R43
 U 1 1 5D150638
 P 7550 3300
 F 0 "R43" H 7620 3346 50  0000 L CNN
-F 1 "10k" H 7620 3255 50  0000 L CNN
+F 1 "10k 1%" H 7620 3255 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 7480 3300 50  0001 C CNN
 F 3 "~" H 7550 3300 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 7550 3300 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 7550 3300 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 7550 3300 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 7550 3300 50  0001 C CNN "Supplier PN"
 	1    7550 3300
 	1    0    0    -1  
 $EndComp
