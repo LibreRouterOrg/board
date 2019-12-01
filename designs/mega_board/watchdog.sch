@@ -38,6 +38,10 @@ F 0 "WDT1" H 4750 3450 50  0000 R CNN
 F 1 "ATTINY13" H 5600 4000 50  0000 R CNN
 F 2 "LibreRouter_MegaBoard:S8S1" H 4700 3400 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf" H 4700 3400 50  0001 C CNN
+F 4 "Microchip Technology" H 4700 3400 50  0001 C CNN "Manufacturer"
+F 5 "ATTINY13A-SSUR" H 4700 3400 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 4700 3400 50  0001 C CNN "Supplier"
+F 7 "ATTINY13A-SSURDKR-ND" H 4700 3400 50  0001 C CNN "Supplier PN"
 	1    4700 3400
 	1    0    0    -1  
 $EndComp
