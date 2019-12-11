@@ -1,8 +1,8 @@
-(module DO-214AA (layer F.Cu) (tedit 0)
-  (fp_text reference D25 (at -3.4 -1.8) (layer F.SilkS)
+(module DO-214AA (layer F.Cu) (tedit 5DF0EF3B)
+  (fp_text reference D25 (at -1.27762 -1.94056) (layer F.SilkS)
     (effects (font (size 0.77216 0.77216) (thickness 0.065024)) (justify left bottom))
   )
-  (fp_text value SMBJ40CA (at 0 0) (layer F.SilkS) hide
+  (fp_text value SMBJ40CA (at 0.00762 2.72542) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_line (start -2.2 -1.4) (end -2.2 1.4) (layer F.SilkS) (width 0.127))
@@ -10,8 +10,8 @@
   (fp_line (start 2.2 1.4) (end 2.2 -1.4) (layer F.SilkS) (width 0.127))
   (fp_line (start 2.2 -1.4) (end -2.2 -1.4) (layer F.SilkS) (width 0.127))
   (fp_line (start -0.8 -1.2) (end -0.8 1.2) (layer F.SilkS) (width 0.4064))
-  (pad C smd rect (at -2.11 0 90) (size 2.18 1.62) (layers F.Cu F.Paste F.Mask)
+  (pad 1 smd rect (at -2.11 0 90) (size 2.18 1.62) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0508))
-  (pad A smd rect (at 2.11 0 90) (size 2.18 1.62) (layers F.Cu F.Paste F.Mask)
+  (pad 2 smd rect (at 2.11 0 90) (size 2.18 1.62) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0508))
 )
