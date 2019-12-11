@@ -90,6 +90,7 @@ F 0 "T1" H 3200 2865 50  0000 C CNN
 F 1 "QT48A03" H 3200 2774 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 3400 50  0001 C CNN
 F 3 "" H 4050 3400 50  0001 C CNN
+F 4 "TNK" H 3200 2400 50  0001 C CNN "Manufacturer"
 	1    3200 2400
 	1    0    0    -1  
 $EndComp
@@ -101,6 +102,10 @@ F 0 "C5" H 2665 2896 50  0000 L CNN
 F 1 "0.1uF, 10V" H 2665 2805 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 2588 2700 50  0001 C CNN
 F 3 "~" H 2550 2850 50  0001 C CNN
+F 4 "Murata Electronics" H 2550 2850 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 2550 2850 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2550 2850 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 2550 2850 50  0001 C CNN "Supplier PN"
 	1    2550 2850
 	1    0    0    -1  
 $EndComp
@@ -133,6 +138,9 @@ F 0 "D9" V 1654 2479 50  0000 L CNN
 F 1 "BS05C" V 1745 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 2400 50  0001 C CNN
 F 3 "~" H 1700 2400 50  0001 C CNN
+F 4 "DigiKey" H 1700 2400 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 2400 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 2400 50  0001 C CNN "Manufacturer PN"
 	1    1700 2400
 	0    1    1    0   
 $EndComp
@@ -162,6 +170,8 @@ F 0 "P1" H 4778 2446 50  0000 L CNN
 F 1 "3R420L" H 4778 2355 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 2400 50  0001 C CNN
 F 3 "" H 4600 2400 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 2400 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 2400 50  0001 C CNN "Manufacturer PN"
 	1    4600 2400
 	1    0    0    -1  
 $EndComp
@@ -195,6 +205,7 @@ F 0 "T1" H 3200 4665 50  0000 C CNN
 F 1 "QT48A03" H 3200 4574 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 5200 50  0001 C CNN
 F 3 "" H 4050 5200 50  0001 C CNN
+F 4 "TNK" H 3200 4200 50  0001 C CNN "Manufacturer"
 	2    3200 4200
 	1    0    0    -1  
 $EndComp
@@ -206,6 +217,10 @@ F 0 "C10" H 2665 4696 50  0000 L CNN
 F 1 "0.1uF, 10V" H 2665 4605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 2588 4500 50  0001 C CNN
 F 3 "~" H 2550 4650 50  0001 C CNN
+F 4 "Murata Electronics" H 2550 4650 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 2550 4650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2550 4650 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 2550 4650 50  0001 C CNN "Supplier PN"
 	1    2550 4650
 	1    0    0    -1  
 $EndComp
@@ -238,6 +253,9 @@ F 0 "D8" V 1654 4279 50  0000 L CNN
 F 1 "BS05C" V 1745 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 4200 50  0001 C CNN
 F 3 "~" H 1700 4200 50  0001 C CNN
+F 4 "DigiKey" H 1700 4200 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 4200 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 4200 50  0001 C CNN "Manufacturer PN"
 	1    1700 4200
 	0    1    1    0   
 $EndComp
@@ -267,6 +285,8 @@ F 0 "P2" H 4778 4246 50  0000 L CNN
 F 1 "3R420L" H 4778 4155 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 4200 50  0001 C CNN
 F 3 "" H 4600 4200 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 4200 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 4200 50  0001 C CNN "Manufacturer PN"
 	1    4600 4200
 	1    0    0    -1  
 $EndComp
@@ -300,6 +320,7 @@ F 0 "T1" H 3200 6365 50  0000 C CNN
 F 1 "QT48A03" H 3200 6274 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 6900 50  0001 C CNN
 F 3 "" H 4050 6900 50  0001 C CNN
+F 4 "TNK" H 3200 5900 50  0001 C CNN "Manufacturer"
 	3    3200 5900
 	1    0    0    -1  
 $EndComp
@@ -311,6 +332,10 @@ F 0 "C11" H 2665 6396 50  0000 L CNN
 F 1 "0.1uF, 10V" H 2665 6305 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 2588 6200 50  0001 C CNN
 F 3 "~" H 2550 6350 50  0001 C CNN
+F 4 "Murata Electronics" H 2550 6350 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 2550 6350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2550 6350 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 2550 6350 50  0001 C CNN "Supplier PN"
 	1    2550 6350
 	1    0    0    -1  
 $EndComp
@@ -343,6 +368,9 @@ F 0 "D10" V 1654 5979 50  0000 L CNN
 F 1 "BS05C" V 1745 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 5900 50  0001 C CNN
 F 3 "~" H 1700 5900 50  0001 C CNN
+F 4 "DigiKey" H 1700 5900 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 5900 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 5900 50  0001 C CNN "Manufacturer PN"
 	1    1700 5900
 	0    1    1    0   
 $EndComp
@@ -372,6 +400,8 @@ F 0 "P3" H 4778 5946 50  0000 L CNN
 F 1 "3R420L" H 4778 5855 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 5900 50  0001 C CNN
 F 3 "" H 4600 5900 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 5900 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 5900 50  0001 C CNN "Manufacturer PN"
 	1    4600 5900
 	1    0    0    -1  
 $EndComp
@@ -405,6 +435,7 @@ F 0 "T1" H 3200 8165 50  0000 C CNN
 F 1 "QT48A03" H 3200 8074 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 8700 50  0001 C CNN
 F 3 "" H 4050 8700 50  0001 C CNN
+F 4 "TNK" H 3200 7700 50  0001 C CNN "Manufacturer"
 	4    3200 7700
 	1    0    0    -1  
 $EndComp
@@ -416,6 +447,10 @@ F 0 "C33" H 2665 8196 50  0000 L CNN
 F 1 "0.1uF, 10V" H 2665 8105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 2588 8000 50  0001 C CNN
 F 3 "~" H 2550 8150 50  0001 C CNN
+F 4 "Murata Electronics" H 2550 8150 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 2550 8150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2550 8150 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 2550 8150 50  0001 C CNN "Supplier PN"
 	1    2550 8150
 	1    0    0    -1  
 $EndComp
@@ -448,6 +483,9 @@ F 0 "D11" V 1654 7779 50  0000 L CNN
 F 1 "BS05C" V 1745 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 7700 50  0001 C CNN
 F 3 "~" H 1700 7700 50  0001 C CNN
+F 4 "DigiKey" H 1700 7700 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 7700 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 7700 50  0001 C CNN "Manufacturer PN"
 	1    1700 7700
 	0    1    1    0   
 $EndComp
@@ -477,6 +515,8 @@ F 0 "P4" H 4778 7746 50  0000 L CNN
 F 1 "3R420L" H 4778 7655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 7700 50  0001 C CNN
 F 3 "" H 4600 7700 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 7700 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 7700 50  0001 C CNN "Manufacturer PN"
 	1    4600 7700
 	1    0    0    -1  
 $EndComp
@@ -510,6 +550,7 @@ F 0 "T1" H 8850 2865 50  0000 C CNN
 F 1 "QT48A03" H 8850 2774 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 3400 50  0001 C CNN
 F 3 "" H 9700 3400 50  0001 C CNN
+F 4 "TNK" H 8850 2400 50  0001 C CNN "Manufacturer"
 	5    8850 2400
 	1    0    0    -1  
 $EndComp
@@ -521,6 +562,10 @@ F 0 "C34" H 8315 2896 50  0000 L CNN
 F 1 "0.1uF, 10V" H 8315 2805 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 8238 2700 50  0001 C CNN
 F 3 "~" H 8200 2850 50  0001 C CNN
+F 4 "Murata Electronics" H 8200 2850 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 8200 2850 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 8200 2850 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 8200 2850 50  0001 C CNN "Supplier PN"
 	1    8200 2850
 	1    0    0    -1  
 $EndComp
@@ -553,6 +598,9 @@ F 0 "D4" V 7304 2479 50  0000 L CNN
 F 1 "BS05C" V 7395 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 2400 50  0001 C CNN
 F 3 "~" H 7350 2400 50  0001 C CNN
+F 4 "DigiKey" H 7350 2400 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 2400 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 2400 50  0001 C CNN "Manufacturer PN"
 	1    7350 2400
 	0    1    1    0   
 $EndComp
@@ -582,6 +630,8 @@ F 0 "P6" H 10428 2446 50  0000 L CNN
 F 1 "3R420L" H 10428 2355 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 2400 50  0001 C CNN
 F 3 "" H 10250 2400 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 2400 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 2400 50  0001 C CNN "Manufacturer PN"
 	1    10250 2400
 	1    0    0    -1  
 $EndComp
@@ -615,6 +665,7 @@ F 0 "T1" H 8850 4665 50  0000 C CNN
 F 1 "QT48A03" H 8850 4574 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 5200 50  0001 C CNN
 F 3 "" H 9700 5200 50  0001 C CNN
+F 4 "TNK" H 8850 4200 50  0001 C CNN "Manufacturer"
 	6    8850 4200
 	1    0    0    -1  
 $EndComp
@@ -626,6 +677,10 @@ F 0 "C35" H 8315 4696 50  0000 L CNN
 F 1 "0.1uF, 10V" H 8315 4605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 8238 4500 50  0001 C CNN
 F 3 "~" H 8200 4650 50  0001 C CNN
+F 4 "Murata Electronics" H 8200 4650 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 8200 4650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 8200 4650 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 8200 4650 50  0001 C CNN "Supplier PN"
 	1    8200 4650
 	1    0    0    -1  
 $EndComp
@@ -658,6 +713,9 @@ F 0 "D3" V 7304 4279 50  0000 L CNN
 F 1 "BS05C" V 7395 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 4200 50  0001 C CNN
 F 3 "~" H 7350 4200 50  0001 C CNN
+F 4 "DigiKey" H 7350 4200 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 4200 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 4200 50  0001 C CNN "Manufacturer PN"
 	1    7350 4200
 	0    1    1    0   
 $EndComp
@@ -687,6 +745,8 @@ F 0 "P7" H 10428 4246 50  0000 L CNN
 F 1 "3R420L" H 10428 4155 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 4200 50  0001 C CNN
 F 3 "" H 10250 4200 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 4200 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 4200 50  0001 C CNN "Manufacturer PN"
 	1    10250 4200
 	1    0    0    -1  
 $EndComp
@@ -720,6 +780,7 @@ F 0 "T1" H 8850 6365 50  0000 C CNN
 F 1 "QT48A03" H 8850 6274 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 6900 50  0001 C CNN
 F 3 "" H 9700 6900 50  0001 C CNN
+F 4 "TNK" H 8850 5900 50  0001 C CNN "Manufacturer"
 	7    8850 5900
 	1    0    0    -1  
 $EndComp
@@ -731,6 +792,10 @@ F 0 "C37" H 8315 6396 50  0000 L CNN
 F 1 "0.1uF, 10V" H 8315 6305 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 8238 6200 50  0001 C CNN
 F 3 "~" H 8200 6350 50  0001 C CNN
+F 4 "Murata Electronics" H 8200 6350 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 8200 6350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 8200 6350 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 8200 6350 50  0001 C CNN "Supplier PN"
 	1    8200 6350
 	1    0    0    -1  
 $EndComp
@@ -763,6 +828,9 @@ F 0 "D6" V 7304 5979 50  0000 L CNN
 F 1 "BS05C" V 7395 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 5900 50  0001 C CNN
 F 3 "~" H 7350 5900 50  0001 C CNN
+F 4 "DigiKey" H 7350 5900 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 5900 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 5900 50  0001 C CNN "Manufacturer PN"
 	1    7350 5900
 	0    1    1    0   
 $EndComp
@@ -792,6 +860,8 @@ F 0 "P8" H 10428 5946 50  0000 L CNN
 F 1 "3R420L" H 10428 5855 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 5900 50  0001 C CNN
 F 3 "" H 10250 5900 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 5900 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 5900 50  0001 C CNN "Manufacturer PN"
 	1    10250 5900
 	1    0    0    -1  
 $EndComp
@@ -825,6 +895,7 @@ F 0 "T1" H 8850 8165 50  0000 C CNN
 F 1 "QT48A03" H 8850 8074 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 8700 50  0001 C CNN
 F 3 "" H 9700 8700 50  0001 C CNN
+F 4 "TNK" H 8850 7700 50  0001 C CNN "Manufacturer"
 	8    8850 7700
 	1    0    0    -1  
 $EndComp
@@ -836,6 +907,10 @@ F 0 "C137" H 8315 8196 50  0000 L CNN
 F 1 "0.1uF, 10V" H 8315 8105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 8238 8000 50  0001 C CNN
 F 3 "~" H 8200 8150 50  0001 C CNN
+F 4 "Murata Electronics" H 8200 8150 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 8200 8150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 8200 8150 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 8200 8150 50  0001 C CNN "Supplier PN"
 	1    8200 8150
 	1    0    0    -1  
 $EndComp
@@ -868,6 +943,9 @@ F 0 "D7" V 7304 7779 50  0000 L CNN
 F 1 "BS05C" V 7395 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 7700 50  0001 C CNN
 F 3 "~" H 7350 7700 50  0001 C CNN
+F 4 "DigiKey" H 7350 7700 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 7700 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 7700 50  0001 C CNN "Manufacturer PN"
 	1    7350 7700
 	0    1    1    0   
 $EndComp
@@ -897,6 +975,8 @@ F 0 "P5" H 10428 7746 50  0000 L CNN
 F 1 "3R420L" H 10428 7655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 7700 50  0001 C CNN
 F 3 "" H 10250 7700 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 7700 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 7700 50  0001 C CNN "Manufacturer PN"
 	1    10250 7700
 	1    0    0    -1  
 $EndComp
@@ -991,9 +1071,14 @@ L Device:R R2
 U 1 1 5D4DF89D
 P 14400 1650
 F 0 "R2" V 14300 1750 50  0000 C CNN
-F 1 "75,NL" V 14300 1550 50  0000 C CNN
+F 1 "75" V 14300 1550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1650 50  0001 C CNN
 F 3 "~" H 14400 1650 50  0001 C CNN
+F 4 "DNP" H 14400 1650 50  0001 C CNN "DNP"
+F 5 "Panasonic Electronic Components" H 14400 1650 50  0001 C CNN "Manufacturer"
+F 6 "ERJ-2BWFR075X" H 14400 1650 50  0001 C CNN "Manufacturer PN"
+F 7 "DigiKey" H 14400 1650 50  0001 C CNN "Supplier"
+F 8 "P.075ATDKR-ND" H 14400 1650 50  0001 C CNN "Supplier PN"
 	1    14400 1650
 	0    1    1    0   
 $EndComp
@@ -1005,6 +1090,10 @@ F 0 "R6" V 14300 2050 50  0000 C CNN
 F 1 "75" V 14300 1850 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1950 50  0001 C CNN
 F 3 "~" H 14400 1950 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 1950 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 1950 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 1950 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 1950 50  0001 C CNN "Supplier PN"
 	1    14400 1950
 	0    1    1    0   
 $EndComp
@@ -1016,6 +1105,10 @@ F 0 "R29" V 14300 2350 50  0000 C CNN
 F 1 "75" V 14300 2150 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2250 50  0001 C CNN
 F 3 "~" H 14400 2250 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2250 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2250 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2250 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2250 50  0001 C CNN "Supplier PN"
 	1    14400 2250
 	0    1    1    0   
 $EndComp
@@ -1027,6 +1120,10 @@ F 0 "R30" V 14300 2650 50  0000 C CNN
 F 1 "75" V 14300 2450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2550 50  0001 C CNN
 F 3 "~" H 14400 2550 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2550 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2550 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2550 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2550 50  0001 C CNN "Supplier PN"
 	1    14400 2550
 	0    1    1    0   
 $EndComp
@@ -1038,6 +1135,10 @@ F 0 "R31" V 14300 2950 50  0000 C CNN
 F 1 "75" V 14300 2750 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 2850 50  0001 C CNN
 F 3 "~" H 14400 2850 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 2850 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 2850 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 2850 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 2850 50  0001 C CNN "Supplier PN"
 	1    14400 2850
 	0    1    1    0   
 $EndComp
@@ -1061,6 +1162,10 @@ F 0 "R1" V 14300 1450 50  0000 C CNN
 F 1 "75" V 14300 1250 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14330 1350 50  0001 C CNN
 F 3 "~" H 14400 1350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14400 1350 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14400 1350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14400 1350 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14400 1350 50  0001 C CNN "Supplier PN"
 	1    14400 1350
 	0    1    1    0   
 $EndComp
@@ -1072,6 +1177,10 @@ F 0 "C49" H 15165 3046 50  0000 L CNN
 F 1 "10nF, 2KV" H 15165 2955 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C1206" H 15088 2850 50  0001 C CNN
 F 3 "~" H 15050 3000 50  0001 C CNN
+F 4 "DigiKey" H 15050 3000 50  0001 C CNN "Supplier"
+F 5 "Murata Electronics" H 15050 3000 50  0001 C CNN "Manufacturer"
+F 6 "GCJ31CR73A103KXJ3L" H 15050 3000 50  0001 C CNN "Manufacturer PN"
+F 7 "490-16694-6-ND" H 15050 3000 50  0001 C CNN "Supplier PN"
 	1    15050 3000
 	1    0    0    -1  
 $EndComp
@@ -1136,10 +1245,14 @@ $Comp
 L Device:R R5
 U 1 1 5D6301C2
 P 13200 4350
-F 0 "R5" V 13100 4450 50  0000 C CNN
-F 1 "75" V 13100 4250 50  0000 C CNN
+F 0 "R5" H 13050 4350 50  0000 C CNN
+F 1 "75" H 13050 4450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13130 4350 50  0001 C CNN
 F 3 "~" H 13200 4350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13200 4350 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 13200 4350 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13200 4350 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 13200 4350 50  0001 C CNN "Supplier PN"
 	1    13200 4350
 	-1   0    0    1   
 $EndComp
@@ -1151,6 +1264,10 @@ F 0 "C40" H 14865 7196 50  0000 L CNN
 F 1 "10nF, 2KV" H 14865 7105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C1206" H 14788 7000 50  0001 C CNN
 F 3 "~" H 14750 7150 50  0001 C CNN
+F 4 "DigiKey" H 14750 7150 50  0001 C CNN "Supplier"
+F 5 "Murata Electronics" H 14750 7150 50  0001 C CNN "Manufacturer"
+F 6 "GCJ31CR73A103KXJ3L" H 14750 7150 50  0001 C CNN "Manufacturer PN"
+F 7 "490-16694-6-ND" H 14750 7150 50  0001 C CNN "Supplier PN"
 	1    14750 7150
 	1    0    0    -1  
 $EndComp
@@ -1175,6 +1292,10 @@ F 0 "R4" H 14600 6700 50  0000 C CNN
 F 1 "75" H 14600 6800 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 14680 6700 50  0001 C CNN
 F 3 "~" H 14750 6700 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14750 6700 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2BWFR075X" H 14750 6700 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 14750 6700 50  0001 C CNN "Supplier"
+F 7 "P.075ATDKR-ND" H 14750 6700 50  0001 C CNN "Supplier PN"
 	1    14750 6700
 	-1   0    0    1   
 $EndComp
@@ -1186,6 +1307,10 @@ F 0 "C41" H 13315 4846 50  0000 L CNN
 F 1 "10nF, 2KV" H 13315 4755 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C1206" H 13238 4650 50  0001 C CNN
 F 3 "~" H 13200 4800 50  0001 C CNN
+F 4 "DigiKey" H 13200 4800 50  0001 C CNN "Supplier"
+F 5 "Murata Electronics" H 13200 4800 50  0001 C CNN "Manufacturer"
+F 6 "GCJ31CR73A103KXJ3L" H 13200 4800 50  0001 C CNN "Manufacturer PN"
+F 7 "490-16694-6-ND" H 13200 4800 50  0001 C CNN "Supplier PN"
 	1    13200 4800
 	1    0    0    -1  
 $EndComp
@@ -1208,6 +1333,10 @@ F 0 "R22" V 12650 1750 50  0000 C CNN
 F 1 "0" V 12650 1550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 12680 1650 50  0001 C CNN
 F 3 "~" H 12750 1650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12750 1650 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 12750 1650 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 12750 1650 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 12750 1650 50  0001 C CNN "Supplier PN"
 	1    12750 1650
 	0    1    1    0   
 $EndComp
@@ -1221,6 +1350,10 @@ F 0 "R8" V 12650 1450 50  0000 C CNN
 F 1 "0" V 12650 1250 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 12680 1350 50  0001 C CNN
 F 3 "~" H 12750 1350 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12750 1350 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 12750 1350 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 12750 1350 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 12750 1350 50  0001 C CNN "Supplier PN"
 	1    12750 1350
 	0    1    1    0   
 $EndComp
@@ -1261,6 +1394,10 @@ F 0 "R25" V 13450 4150 50  0000 C CNN
 F 1 "0" V 13450 3950 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R1206" V 13480 4050 50  0001 C CNN
 F 3 "~" H 13550 4050 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13550 4050 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 13550 4050 50  0001 C CNN "Supplier"
+F 6 "ERJ-8GEY0R00V" H 13550 4050 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0EDKR-ND" H 13550 4050 50  0001 C CNN "Supplier PN"
 	1    13550 4050
 	0    1    1    0   
 $EndComp
@@ -1284,9 +1421,13 @@ L Device:R R33
 U 1 1 5D8661A5
 P 14350 6450
 F 0 "R33" V 14250 6450 50  0000 C CNN
-F 1 "0R 1/10W" V 14150 6550 50  0000 C CNN
+F 1 "0 1/10W" V 14150 6550 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0603" V 14280 6450 50  0001 C CNN
 F 3 "~" H 14350 6450 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 14350 6450 50  0001 C CNN "Manufacturer"
+F 5 "DigiKey" H 14350 6450 50  0001 C CNN "Supplier"
+F 6 "ERJ-3GEY0R00V" H 14350 6450 50  0001 C CNN "Manufacturer PN"
+F 7 "P0.0GDKR-ND" H 14350 6450 50  0001 C CNN "Supplier PN"
 	1    14350 6450
 	0    1    1    0   
 $EndComp
@@ -1298,6 +1439,10 @@ F 0 "R32" H 13150 7050 50  0000 C CNN
 F 1 "68k" H 13150 7150 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13230 7050 50  0001 C CNN
 F 3 "~" H 13300 7050 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13300 7050 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F6802X" H 13300 7050 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13300 7050 50  0001 C CNN "Supplier"
+F 7 "P17235DKR-ND" H 13300 7050 50  0001 C CNN "Supplier PN"
 	1    13300 7050
 	-1   0    0    1   
 $EndComp
@@ -1309,6 +1454,10 @@ F 0 "R57" V 13050 6900 50  0000 C CNN
 F 1 "100k" V 13050 6700 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 12880 6800 50  0001 C CNN
 F 3 "~" H 12950 6800 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 12950 6800 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1003X" H 12950 6800 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 12950 6800 50  0001 C CNN "Supplier"
+F 7 "P17236DKR-ND" H 12950 6800 50  0001 C CNN "Supplier PN"
 	1    12950 6800
 	0    1    1    0   
 $EndComp
@@ -1317,9 +1466,13 @@ L Device:R R3
 U 1 1 5D88FC3A
 P 13950 8200
 F 0 "R3" V 13850 8300 50  0000 C CNN
-F 1 "4k7" V 13850 8100 50  0000 C CNN
+F 1 "4.7k" V 13850 8100 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13880 8200 50  0001 C CNN
 F 3 "~" H 13950 8200 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13950 8200 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-2GEJ472X" H 13950 8200 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13950 8200 50  0001 C CNN "Supplier"
+F 7 "P4.7KJDKR-ND" H 13950 8200 50  0001 C CNN "Supplier PN"
 	1    13950 8200
 	0    -1   -1   0   
 $EndComp
@@ -1331,6 +1484,10 @@ F 0 "R44" H 13850 8600 50  0000 C CNN
 F 1 "47k" H 13850 8450 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 13630 8550 50  0001 C CNN
 F 3 "~" H 13700 8550 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 13700 8550 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F4702X" H 13700 8550 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13700 8550 50  0001 C CNN "Supplier"
+F 7 "P17234DKR-ND" H 13700 8550 50  0001 C CNN "Supplier PN"
 	1    13700 8550
 	1    0    0    -1  
 $EndComp
@@ -1416,6 +1573,10 @@ F 0 "Q9" V 13666 6468 59  0000 C CNN
 F 1 "Si4435DDY-T1" V 13561 6468 59  0000 C CNN
 F 2 "LibreRouter_MegaBoard:SI4435" H 13400 6450 50  0001 C CNN
 F 3 "" H 13400 6450 50  0001 C CNN
+F 4 "Vishay Siliconix" H 13400 6450 50  0001 C CNN "Manufacturer"
+F 5 "SI4435DDY-T1-E3" H 13400 6450 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13400 6450 50  0001 C CNN "Supplier"
+F 7 "SI4435DDY-T1-E3DKR-ND" H 13400 6450 50  0001 C CNN "Supplier PN"
 	1    13400 6450
 	0    -1   -1   0   
 $EndComp
@@ -1427,6 +1588,10 @@ F 0 "Q11" H 13408 8153 59  0000 L CNN
 F 1 "BSS138-7-F" H 13408 8048 59  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOT-23" H 13300 8100 50  0001 C CNN
 F 3 "" H 13300 8100 50  0001 C CNN
+F 4 "Diodes Incorporated" H 13300 8100 50  0001 C CNN "Manufacturer"
+F 5 "BSS138-7-F" H 13300 8100 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 13300 8100 50  0001 C CNN "Supplier"
+F 7 "BSS138-FDIDKR-ND" H 13300 8100 50  0001 C CNN "Supplier PN"
 	1    13300 8100
 	-1   0    0    -1  
 $EndComp

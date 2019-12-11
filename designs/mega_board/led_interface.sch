@@ -44,6 +44,10 @@ F 0 "R24" H 5770 1746 50  0000 L CNN
 F 1 "330" H 5770 1655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 1700 50  0001 C CNN
 F 3 "~" H 5700 1700 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 1700 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 1700 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 1700 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 1700 50  0001 C CNN "Supplier PN"
 	1    5700 1700
 	1    0    0    -1  
 $EndComp
@@ -72,6 +76,10 @@ F 0 "R17" H 5770 2246 50  0000 L CNN
 F 1 "330" H 5770 2155 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 2200 50  0001 C CNN
 F 3 "~" H 5700 2200 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 2200 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 2200 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 2200 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 2200 50  0001 C CNN "Supplier PN"
 	1    5700 2200
 	1    0    0    -1  
 $EndComp
@@ -100,6 +108,10 @@ F 0 "R77" H 5770 2696 50  0000 L CNN
 F 1 "330" H 5770 2605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 2650 50  0001 C CNN
 F 3 "~" H 5700 2650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 2650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 2650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 2650 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 2650 50  0001 C CNN "Supplier PN"
 	1    5700 2650
 	1    0    0    -1  
 $EndComp
@@ -128,6 +140,10 @@ F 0 "R123" H 5770 3196 50  0000 L CNN
 F 1 "330" H 5770 3105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 3150 50  0001 C CNN
 F 3 "~" H 5700 3150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 3150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 3150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 3150 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 3150 50  0001 C CNN "Supplier PN"
 	1    5700 3150
 	1    0    0    -1  
 $EndComp
@@ -156,6 +172,10 @@ F 0 "R124" H 5770 3696 50  0000 L CNN
 F 1 "330" H 5770 3605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 3650 50  0001 C CNN
 F 3 "~" H 5700 3650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 3650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 3650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 3650 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 3650 50  0001 C CNN "Supplier PN"
 	1    5700 3650
 	1    0    0    -1  
 $EndComp
@@ -184,6 +204,10 @@ F 0 "R7" H 5770 4196 50  0000 L CNN
 F 1 "330" H 5770 4105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 4150 50  0001 C CNN
 F 3 "~" H 5700 4150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 4150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 4150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 4150 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 4150 50  0001 C CNN "Supplier PN"
 	1    5700 4150
 	1    0    0    -1  
 $EndComp
@@ -212,6 +236,10 @@ F 0 "R26" H 5770 4696 50  0000 L CNN
 F 1 "330" H 5770 4605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 4650 50  0001 C CNN
 F 3 "~" H 5700 4650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 4650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 4650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 4650 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 4650 50  0001 C CNN "Supplier PN"
 	1    5700 4650
 	1    0    0    -1  
 $EndComp
@@ -240,6 +268,10 @@ F 0 "R27" H 5770 5196 50  0000 L CNN
 F 1 "330" H 5770 5105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 5150 50  0001 C CNN
 F 3 "~" H 5700 5150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 5150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 5150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 5150 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 5150 50  0001 C CNN "Supplier PN"
 	1    5700 5150
 	1    0    0    -1  
 $EndComp
@@ -287,6 +319,10 @@ F 0 "R28" H 5770 5696 50  0000 L CNN
 F 1 "330" H 5770 5605 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 5650 50  0001 C CNN
 F 3 "~" H 5700 5650 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 5650 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 5650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 5650 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 5650 50  0001 C CNN "Supplier PN"
 	1    5700 5650
 	1    0    0    -1  
 $EndComp
@@ -315,6 +351,10 @@ F 0 "R23" H 5770 6196 50  0000 L CNN
 F 1 "330" H 5770 6105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 5630 6150 50  0001 C CNN
 F 3 "~" H 5700 6150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 5700 6150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F3300X" H 5700 6150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5700 6150 50  0001 C CNN "Supplier"
+F 7 "P17221DKR-ND" H 5700 6150 50  0001 C CNN "Supplier PN"
 	1    5700 6150
 	1    0    0    -1  
 $EndComp

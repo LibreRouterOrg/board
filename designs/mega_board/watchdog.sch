@@ -38,6 +38,10 @@ F 0 "WDT1" H 4750 3450 50  0000 R CNN
 F 1 "ATTINY13" H 5600 4000 50  0000 R CNN
 F 2 "LibreRouter_MegaBoard:S8S1" H 4700 3400 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf" H 4700 3400 50  0001 C CNN
+F 4 "Microchip Technology" H 4700 3400 50  0001 C CNN "Manufacturer"
+F 5 "ATTINY13A-SSUR" H 4700 3400 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 4700 3400 50  0001 C CNN "Supplier"
+F 7 "ATTINY13A-SSURDKR-ND" H 4700 3400 50  0001 C CNN "Supplier PN"
 	1    4700 3400
 	1    0    0    -1  
 $EndComp
@@ -46,9 +50,13 @@ L Device:R R53
 U 1 1 5D15016D
 P 6750 4150
 F 0 "R53" H 6820 4196 50  0000 L CNN
-F 1 "10k" H 6820 4105 50  0000 L CNN
+F 1 "10k 1%" H 6820 4105 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 6680 4150 50  0001 C CNN
 F 3 "~" H 6750 4150 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 6750 4150 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 6750 4150 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 6750 4150 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 6750 4150 50  0001 C CNN "Supplier PN"
 	1    6750 4150
 	1    0    0    -1  
 $EndComp
@@ -60,6 +68,10 @@ F 0 "C126" H 6865 4596 50  0000 L CNN
 F 1 "0.01uF" H 6865 4505 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 6788 4400 50  0001 C CNN
 F 3 "~" H 6750 4550 50  0001 C CNN
+F 4 "DigiKey" H 6750 4550 50  0001 C CNN "Supplier"
+F 5 "Murata Electronics" H 6750 4550 50  0001 C CNN "Manufacturer"
+F 6 "GRM155R71H103KA88J" H 6750 4550 50  0001 C CNN "Manufacturer PN"
+F 7 "490-6351-6-ND" H 6750 4550 50  0001 C CNN "Supplier PN"
 	1    6750 4550
 	1    0    0    -1  
 $EndComp
@@ -105,9 +117,13 @@ L Device:R R43
 U 1 1 5D150638
 P 7550 3300
 F 0 "R43" H 7620 3346 50  0000 L CNN
-F 1 "10k" H 7620 3255 50  0000 L CNN
+F 1 "10k 1%" H 7620 3255 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:R0402" V 7480 3300 50  0001 C CNN
 F 3 "~" H 7550 3300 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 7550 3300 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 7550 3300 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 7550 3300 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 7550 3300 50  0001 C CNN "Supplier PN"
 	1    7550 3300
 	1    0    0    -1  
 $EndComp
@@ -119,6 +135,10 @@ F 0 "C125" H 7665 3746 50  0000 L CNN
 F 1 "0.01uF" H 7665 3655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 7588 3550 50  0001 C CNN
 F 3 "~" H 7550 3700 50  0001 C CNN
+F 4 "DigiKey" H 7550 3700 50  0001 C CNN "Supplier"
+F 5 "Murata Electronics" H 7550 3700 50  0001 C CNN "Manufacturer"
+F 6 "GRM155R71H103KA88J" H 7550 3700 50  0001 C CNN "Manufacturer PN"
+F 7 "490-6351-6-ND" H 7550 3700 50  0001 C CNN "Supplier PN"
 	1    7550 3700
 	1    0    0    -1  
 $EndComp
@@ -151,9 +171,13 @@ L Device:C C124
 U 1 1 5D1B5630
 P 3800 2950
 F 0 "C124" H 3915 2996 50  0000 L CNN
-F 1 "0.1uF" H 3915 2905 50  0000 L CNN
+F 1 "0.1uF, 10V" H 3915 2905 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:C0402" H 3838 2800 50  0001 C CNN
 F 3 "~" H 3800 2950 50  0001 C CNN
+F 4 "Murata Electronics" H 3800 2950 50  0001 C CNN "Manufacturer"
+F 5 "GCM155R71A104KA55D" H 3800 2950 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 3800 2950 50  0001 C CNN "Supplier"
+F 7 "490-16434-6-ND" H 3800 2950 50  0001 C CNN "Supplier PN"
 	1    3800 2950
 	1    0    0    -1  
 $EndComp
