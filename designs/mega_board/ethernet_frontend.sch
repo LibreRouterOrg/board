@@ -90,6 +90,7 @@ F 0 "T1" H 3200 2865 50  0000 C CNN
 F 1 "QT48A03" H 3200 2774 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 3400 50  0001 C CNN
 F 3 "" H 4050 3400 50  0001 C CNN
+F 4 "TNK" H 3200 2400 50  0001 C CNN "Manufacturer"
 	1    3200 2400
 	1    0    0    -1  
 $EndComp
@@ -138,6 +139,8 @@ F 1 "BS05C" V 1745 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 2400 50  0001 C CNN
 F 3 "~" H 1700 2400 50  0001 C CNN
 F 4 "DigiKey" H 1700 2400 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 2400 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 2400 50  0001 C CNN "Manufacturer PN"
 	1    1700 2400
 	0    1    1    0   
 $EndComp
@@ -167,6 +170,8 @@ F 0 "P1" H 4778 2446 50  0000 L CNN
 F 1 "3R420L" H 4778 2355 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 2400 50  0001 C CNN
 F 3 "" H 4600 2400 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 2400 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 2400 50  0001 C CNN "Manufacturer PN"
 	1    4600 2400
 	1    0    0    -1  
 $EndComp
@@ -200,6 +205,7 @@ F 0 "T1" H 3200 4665 50  0000 C CNN
 F 1 "QT48A03" H 3200 4574 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 5200 50  0001 C CNN
 F 3 "" H 4050 5200 50  0001 C CNN
+F 4 "TNK" H 3200 4200 50  0001 C CNN "Manufacturer"
 	2    3200 4200
 	1    0    0    -1  
 $EndComp
@@ -248,6 +254,8 @@ F 1 "BS05C" V 1745 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 4200 50  0001 C CNN
 F 3 "~" H 1700 4200 50  0001 C CNN
 F 4 "DigiKey" H 1700 4200 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 4200 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 4200 50  0001 C CNN "Manufacturer PN"
 	1    1700 4200
 	0    1    1    0   
 $EndComp
@@ -277,6 +285,8 @@ F 0 "P2" H 4778 4246 50  0000 L CNN
 F 1 "3R420L" H 4778 4155 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 4200 50  0001 C CNN
 F 3 "" H 4600 4200 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 4200 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 4200 50  0001 C CNN "Manufacturer PN"
 	1    4600 4200
 	1    0    0    -1  
 $EndComp
@@ -310,6 +320,7 @@ F 0 "T1" H 3200 6365 50  0000 C CNN
 F 1 "QT48A03" H 3200 6274 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 6900 50  0001 C CNN
 F 3 "" H 4050 6900 50  0001 C CNN
+F 4 "TNK" H 3200 5900 50  0001 C CNN "Manufacturer"
 	3    3200 5900
 	1    0    0    -1  
 $EndComp
@@ -358,6 +369,8 @@ F 1 "BS05C" V 1745 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 5900 50  0001 C CNN
 F 3 "~" H 1700 5900 50  0001 C CNN
 F 4 "DigiKey" H 1700 5900 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 5900 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 5900 50  0001 C CNN "Manufacturer PN"
 	1    1700 5900
 	0    1    1    0   
 $EndComp
@@ -387,6 +400,8 @@ F 0 "P3" H 4778 5946 50  0000 L CNN
 F 1 "3R420L" H 4778 5855 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 5900 50  0001 C CNN
 F 3 "" H 4600 5900 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 5900 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 5900 50  0001 C CNN "Manufacturer PN"
 	1    4600 5900
 	1    0    0    -1  
 $EndComp
@@ -420,6 +435,7 @@ F 0 "T1" H 3200 8165 50  0000 C CNN
 F 1 "QT48A03" H 3200 8074 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 4050 8700 50  0001 C CNN
 F 3 "" H 4050 8700 50  0001 C CNN
+F 4 "TNK" H 3200 7700 50  0001 C CNN "Manufacturer"
 	4    3200 7700
 	1    0    0    -1  
 $EndComp
@@ -468,6 +484,8 @@ F 1 "BS05C" V 1745 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 1700 7700 50  0001 C CNN
 F 3 "~" H 1700 7700 50  0001 C CNN
 F 4 "DigiKey" H 1700 7700 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 1700 7700 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 1700 7700 50  0001 C CNN "Manufacturer PN"
 	1    1700 7700
 	0    1    1    0   
 $EndComp
@@ -497,6 +515,8 @@ F 0 "P4" H 4778 7746 50  0000 L CNN
 F 1 "3R420L" H 4778 7655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 4600 7700 50  0001 C CNN
 F 3 "" H 4600 7700 50  0001 C CNN
+F 4 "Bincheng Electronics" H 4600 7700 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 4600 7700 50  0001 C CNN "Manufacturer PN"
 	1    4600 7700
 	1    0    0    -1  
 $EndComp
@@ -530,6 +550,7 @@ F 0 "T1" H 8850 2865 50  0000 C CNN
 F 1 "QT48A03" H 8850 2774 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 3400 50  0001 C CNN
 F 3 "" H 9700 3400 50  0001 C CNN
+F 4 "TNK" H 8850 2400 50  0001 C CNN "Manufacturer"
 	5    8850 2400
 	1    0    0    -1  
 $EndComp
@@ -578,6 +599,8 @@ F 1 "BS05C" V 7395 2479 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 2400 50  0001 C CNN
 F 3 "~" H 7350 2400 50  0001 C CNN
 F 4 "DigiKey" H 7350 2400 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 2400 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 2400 50  0001 C CNN "Manufacturer PN"
 	1    7350 2400
 	0    1    1    0   
 $EndComp
@@ -607,6 +630,8 @@ F 0 "P6" H 10428 2446 50  0000 L CNN
 F 1 "3R420L" H 10428 2355 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 2400 50  0001 C CNN
 F 3 "" H 10250 2400 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 2400 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 2400 50  0001 C CNN "Manufacturer PN"
 	1    10250 2400
 	1    0    0    -1  
 $EndComp
@@ -640,6 +665,7 @@ F 0 "T1" H 8850 4665 50  0000 C CNN
 F 1 "QT48A03" H 8850 4574 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 5200 50  0001 C CNN
 F 3 "" H 9700 5200 50  0001 C CNN
+F 4 "TNK" H 8850 4200 50  0001 C CNN "Manufacturer"
 	6    8850 4200
 	1    0    0    -1  
 $EndComp
@@ -688,6 +714,8 @@ F 1 "BS05C" V 7395 4279 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 4200 50  0001 C CNN
 F 3 "~" H 7350 4200 50  0001 C CNN
 F 4 "DigiKey" H 7350 4200 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 4200 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 4200 50  0001 C CNN "Manufacturer PN"
 	1    7350 4200
 	0    1    1    0   
 $EndComp
@@ -717,6 +745,8 @@ F 0 "P7" H 10428 4246 50  0000 L CNN
 F 1 "3R420L" H 10428 4155 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 4200 50  0001 C CNN
 F 3 "" H 10250 4200 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 4200 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 4200 50  0001 C CNN "Manufacturer PN"
 	1    10250 4200
 	1    0    0    -1  
 $EndComp
@@ -750,6 +780,7 @@ F 0 "T1" H 8850 6365 50  0000 C CNN
 F 1 "QT48A03" H 8850 6274 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 6900 50  0001 C CNN
 F 3 "" H 9700 6900 50  0001 C CNN
+F 4 "TNK" H 8850 5900 50  0001 C CNN "Manufacturer"
 	7    8850 5900
 	1    0    0    -1  
 $EndComp
@@ -798,6 +829,8 @@ F 1 "BS05C" V 7395 5979 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 5900 50  0001 C CNN
 F 3 "~" H 7350 5900 50  0001 C CNN
 F 4 "DigiKey" H 7350 5900 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 5900 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 5900 50  0001 C CNN "Manufacturer PN"
 	1    7350 5900
 	0    1    1    0   
 $EndComp
@@ -827,6 +860,8 @@ F 0 "P8" H 10428 5946 50  0000 L CNN
 F 1 "3R420L" H 10428 5855 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 5900 50  0001 C CNN
 F 3 "" H 10250 5900 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 5900 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 5900 50  0001 C CNN "Manufacturer PN"
 	1    10250 5900
 	1    0    0    -1  
 $EndComp
@@ -860,6 +895,7 @@ F 0 "T1" H 8850 8165 50  0000 C CNN
 F 1 "QT48A03" H 8850 8074 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:QT48103" H 9700 8700 50  0001 C CNN
 F 3 "" H 9700 8700 50  0001 C CNN
+F 4 "TNK" H 8850 7700 50  0001 C CNN "Manufacturer"
 	8    8850 7700
 	1    0    0    -1  
 $EndComp
@@ -908,6 +944,8 @@ F 1 "BS05C" V 7395 7779 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:SOD−323" H 7350 7700 50  0001 C CNN
 F 3 "~" H 7350 7700 50  0001 C CNN
 F 4 "DigiKey" H 7350 7700 50  0001 C CNN "Supplier"
+F 5 "Bincheng Electronics" H 7350 7700 50  0001 C CNN "Manufacturer"
+F 6 "BV05C" H 7350 7700 50  0001 C CNN "Manufacturer PN"
 	1    7350 7700
 	0    1    1    0   
 $EndComp
@@ -937,6 +975,8 @@ F 0 "P5" H 10428 7746 50  0000 L CNN
 F 1 "3R420L" H 10428 7655 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:GDT-LT-B3D090L" H 10250 7700 50  0001 C CNN
 F 3 "" H 10250 7700 50  0001 C CNN
+F 4 "Bincheng Electronics" H 10250 7700 50  0001 C CNN "Manufacturer"
+F 5 "LTB3D090L" H 10250 7700 50  0001 C CNN "Manufacturer PN"
 	1    10250 7700
 	1    0    0    -1  
 $EndComp

@@ -44,6 +44,8 @@ F 0 "U12" H 5950 4665 50  0000 C CNN
 F 1 "USB_HUB_FE1.1S" H 5950 4574 50  0000 C CNN
 F 2 "LibreRouter_MegaBoard:USB_HUB_FE1.1S" H 5950 3750 50  0001 C CNN
 F 3 "" H 5950 3750 50  0001 C CNN
+F 4 "Tangming" H 5950 3750 50  0001 C CNN "Manufacturer"
+F 5 "FE1.1s" H 5950 3750 50  0001 C CNN "Manufacturer PN"
 	1    5950 3750
 	1    0    0    -1  
 $EndComp

@@ -358,6 +358,8 @@ F 0 "V1" H 3086 1496 50  0000 L CNN
 F 1 "BC301N-D" H 3086 1405 50  0000 L CNN
 F 2 "LibreRouter_MegaBoard:BC301N-D" H 2900 1450 50  0001 C CNN
 F 3 "" H 2900 1450 50  0001 C CNN
+F 4 "Bincheng Electronics" H 2900 1450 50  0001 C CNN "Manufacturer"
+F 5 "BC301N-D" H 2900 1450 50  0001 C CNN "Manufacturer PN"
 	1    2900 1450
 	1    0    0    -1  
 $EndComp
