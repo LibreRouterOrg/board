@@ -14,4 +14,5 @@
   (lib (name nmosfet)(type Legacy)(uri ${KIPRJMOD}/nmosfet.lib)(options "")(descr ""))
   (lib (name p-mosfet_so8)(type Legacy)(uri ${KIPRJMOD}/p-mosfet_so8.lib)(options "")(descr ""))
   (lib (name LibreRouter_MegaBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/LibreRouter_MegaBoard-rescue.lib)(options "")(descr ""))
+  (lib (name sim_card_shielded)(type Legacy)(uri ${KIPRJMOD}/sim_card_shielded.lib)(options "")(descr ""))
 )
