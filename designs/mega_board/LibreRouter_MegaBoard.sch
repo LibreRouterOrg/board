@@ -3249,8 +3249,6 @@ Text Label 18650 5650 0    50   ~ 0
 GPIO3
 Text Label 18650 2350 0    50   ~ 0
 GPIO12
-Text Label 18650 5850 0    50   ~ 0
-GPIO12
 $Comp
 L Device:C C39
 U 1 1 5D46CAA5
@@ -3783,4 +3781,6 @@ Wire Wire Line
 	20750 3650 21750 3650
 Wire Wire Line
 	21750 3650 21750 3300
+Text Label 18650 5850 0    50   ~ 0
+GPIO14
 $EndSCHEMATC
