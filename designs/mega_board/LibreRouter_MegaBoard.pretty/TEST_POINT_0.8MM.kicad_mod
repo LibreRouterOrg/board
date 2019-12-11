@@ -1,10 +1,10 @@
-(module TEST_POINT_0.8MM (layer F.Cu) (tedit 0)
+(module TEST_POINT_0.8MM (layer F.Cu) (tedit 5DF0F968)
   (fp_text reference TP3 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_text value TEST-POINT0.8MM (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
-  (pad P$1 smd roundrect (at 0 0) (size 0.8 0.8) (layers F.Cu F.Mask) (roundrect_rratio 0.5)
+  (pad 1 smd roundrect (at 0 0) (size 0.8 0.8) (layers F.Cu F.Mask) (roundrect_rratio 0.5)
     (solder_mask_margin 0.0508))
 )
