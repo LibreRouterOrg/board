@@ -574,4 +574,12 @@ Wire Wire Line
 NoConn ~ 4550 4800
 Wire Wire Line
 	4550 4800 4950 4800
+Text Label 3600 4100 0    50   ~ 0
+PCIe_RX_bis_N
+Text Label 3600 4200 0    50   ~ 0
+PCIe_RX_bis_P
+Text Label 3600 4500 0    50   ~ 0
+PCIe_TX_bis_N
+Text Label 3600 4600 0    50   ~ 0
+PCIe_TX_bis_P
 $EndSCHEMATC

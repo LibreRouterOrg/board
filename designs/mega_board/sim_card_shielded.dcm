@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIM_Card
+D SIM Card
+K SIM card UICC
+F  ~
+$ENDCMP
+#
+#End Doc Library
