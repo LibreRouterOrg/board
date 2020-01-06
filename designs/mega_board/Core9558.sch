@@ -225,14 +225,6 @@ Wire Wire Line
 	5000 2350 7250 2350
 Wire Wire Line
 	7250 2350 7250 3100
-Text HLabel 5000 4000 0    50   Input ~ 0
-SPI_CS_L
-Text HLabel 5000 4100 0    50   Input ~ 0
-SPI_CLK
-Text HLabel 5000 4200 0    50   Input ~ 0
-SPI_MOSI
-Text HLabel 5000 4300 0    50   Input ~ 0
-SPI_MISO
 Wire Wire Line
 	5000 4500 5500 4500
 Wire Wire Line
@@ -731,4 +723,8 @@ Wire Wire Line
 Connection ~ 7650 3000
 Wire Wire Line
 	7650 3000 7750 3000
+NoConn ~ 5000 4000
+NoConn ~ 5000 4100
+NoConn ~ 5000 4200
+NoConn ~ 5000 4300
 $EndSCHEMATC
