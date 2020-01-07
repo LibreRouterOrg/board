@@ -940,8 +940,6 @@ F 3 "" H 4050 10600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3950 10600 4050 10600
-Text Label 4400 10200 0    50   ~ 0
-+3V3_PCIE
 Wire Wire Line
 	4400 10200 3950 10200
 $Comp
@@ -3819,4 +3817,6 @@ F 4 "DNP" H 9850 14700 50  0001 C CNN "DNP"
 	1    9850 14700
 	1    0    0    -1  
 $EndComp
+Text Label 4400 10200 0    50   ~ 0
++3V3
 $EndSCHEMATC
