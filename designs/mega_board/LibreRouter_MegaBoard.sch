@@ -3741,10 +3741,10 @@ Wire Wire Line
 Text Label 16550 4100 0    50   ~ 0
 +3V3_PCIE
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0195
 U 1 1 5E0E9264
 P 17000 4800
-F 0 "#PWR?" H 17000 4550 50  0001 C CNN
+F 0 "#PWR0195" H 17000 4550 50  0001 C CNN
 F 1 "GND" H 17005 4627 50  0000 C CNN
 F 2 "" H 17000 4800 50  0001 C CNN
 F 3 "" H 17000 4800 50  0001 C CNN
@@ -3771,4 +3771,52 @@ Wire Wire Line
 	5800 13150 5800 12100
 Wire Wire Line
 	4600 12100 5800 12100
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5E179365
+P 9850 15400
+F 0 "H3" H 9950 15446 50  0000 L CNN
+F 1 "MountingHole" H 9950 15355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 9850 15400 50  0001 C CNN
+F 3 "~" H 9850 15400 50  0001 C CNN
+F 4 "DNP" H 9850 15400 50  0001 C CNN "DNP"
+	1    9850 15400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E1A5736
+P 9850 15050
+F 0 "H2" H 9950 15096 50  0000 L CNN
+F 1 "MountingHole" H 9950 15005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 9850 15050 50  0001 C CNN
+F 3 "~" H 9850 15050 50  0001 C CNN
+F 4 "DNP" H 9850 15050 50  0001 C CNN "DNP"
+	1    9850 15050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E1D080E
+P 9850 15750
+F 0 "H4" H 9950 15796 50  0000 L CNN
+F 1 "MountingHole" H 9950 15705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 9850 15750 50  0001 C CNN
+F 3 "~" H 9850 15750 50  0001 C CNN
+F 4 "DNP" H 9850 15750 50  0001 C CNN "DNP"
+	1    9850 15750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E1FBC61
+P 9850 14700
+F 0 "H1" H 9950 14746 50  0000 L CNN
+F 1 "MountingHole" H 9950 14655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 9850 14700 50  0001 C CNN
+F 3 "~" H 9850 14700 50  0001 C CNN
+F 4 "DNP" H 9850 14700 50  0001 C CNN "DNP"
+	1    9850 14700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
