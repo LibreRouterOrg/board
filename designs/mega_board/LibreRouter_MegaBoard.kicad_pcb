@@ -9113,6 +9113,9 @@
       (net 1 GND) (solder_mask_margin 0.0508))
   )
 
+  (gr_text "LibreRouter.org\nMegaBoard v1.4.0\n" (at 225.57 217.97) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text 1 (at 114.681 95.631) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
