@@ -2012,7 +2012,7 @@
   )
 
   (module MountingHole:MountingHole_3mm (layer Top) (tedit 56D1B4CB) (tstamp 5E14F5EE)
-    (at 104.3813 108.03382)
+    (at 104.3813 107.27182)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5E1D080E)
@@ -2032,7 +2032,7 @@
   )
 
   (module MountingHole:MountingHole_3mm (layer Top) (tedit 56D1B4CB) (tstamp 5E14F5E6)
-    (at 244.63502 153.23566)
+    (at 244.63502 152.47366)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5E179365)
@@ -2052,7 +2052,7 @@
   )
 
   (module MountingHole:MountingHole_3mm (layer Top) (tedit 56D1B4CB) (tstamp 5E150CCE)
-    (at 235.95584 208.35874)
+    (at 235.95584 207.59674)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5E1A5736)
@@ -2071,8 +2071,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_3mm (layer Top) (tedit 56D1B4CB) (tstamp 5E14F5D6)
-    (at 101.55682 205.26756)
+  (module MountingHole:MountingHole_3mm (layer Top) (tedit 56D1B4CB) (tstamp 5E690617)
+    (at 101.55682 204.50556)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5E1FBC61)
