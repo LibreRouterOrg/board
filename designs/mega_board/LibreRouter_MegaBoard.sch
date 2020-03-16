@@ -661,21 +661,6 @@ Wire Wire Line
 	3950 11150 4050 11150
 Wire Wire Line
 	4050 11150 4050 11350
-$Comp
-L Connector_Generic:Conn_02x13_Odd_Even GPIO1
-U 1 1 5D446377
-P 3750 8650
-F 0 "GPIO1" H 3800 9550 50  0000 C CNN
-F 1 "Conn_02x13" H 3800 9450 50  0000 C CNN
-F 2 "LibreRouter_MegaBoard:2X13" H 3750 8650 50  0001 C CNN
-F 3 "~" H 3750 8650 50  0001 C CNN
-F 4 "Würth Elektronik" H 3750 8650 50  0001 C CNN "Manufacturer"
-F 5 "61302621121" H 3750 8650 50  0001 C CNN "Manufacturer PN"
-F 6 "DigiKey" H 3750 8650 50  0001 C CNN "Supplier"
-F 7 "732-5304-ND" H 3750 8650 50  0001 C CNN "Supplier PN"
-	1    3750 8650
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7950 8650 8650 8650
 Text Label 7950 8650 0    50   ~ 0
@@ -708,198 +693,181 @@ Wire Wire Line
 	7950 9150 8650 9150
 Text Label 7950 9150 0    50   ~ 0
 GPIO21
-Text Label 7900 8050 0    50   ~ 0
-GPIO0
-Text Label 7900 8150 0    50   ~ 0
-GPIO1
-Text Label 7900 8350 0    50   ~ 0
-GPIO3
 Text Label 7900 6400 0    50   ~ 0
 UART_SIN
 Text Label 7900 6500 0    50   ~ 0
 UART_SOUT
 Wire Wire Line
-	4050 8450 4250 8450
+	6750 8450 6950 8450
 Wire Wire Line
-	4250 8550 4050 8550
+	6950 8550 6750 8550
 Wire Wire Line
-	4050 8650 4250 8650
+	6750 8650 6950 8650
 Wire Wire Line
-	4050 8750 4250 8750
+	6750 8750 6950 8750
 Wire Wire Line
-	4050 8850 4250 8850
+	6750 8850 6950 8850
 Wire Wire Line
-	4250 8950 4050 8950
+	6950 8950 6750 8950
 Wire Wire Line
-	4050 9050 4250 9050
+	6750 9050 6950 9050
 Wire Wire Line
-	4050 9150 4250 9150
+	6750 9150 6950 9150
 Wire Wire Line
-	4050 9250 4250 9250
-Text Label 4250 8450 0    50   ~ 0
+	6750 9250 6950 9250
+Text Label 6950 8450 0    50   ~ 0
 GPIO4
-Text Label 4250 8550 0    50   ~ 0
+Text Label 6950 8550 0    50   ~ 0
 UART_SIN
-Text Label 4250 8650 0    50   ~ 0
+Text Label 6950 8650 0    50   ~ 0
 UART_SOUT
 Wire Wire Line
-	3350 8050 3550 8050
+	6050 8050 6250 8050
 Wire Wire Line
-	3550 8150 3350 8150
+	6250 8150 6050 8150
 Wire Wire Line
-	3350 8250 3550 8250
+	6050 8450 6250 8450
 Wire Wire Line
-	3350 8450 3550 8450
+	6250 8550 6050 8550
 Wire Wire Line
-	3550 8550 3350 8550
+	6050 8650 6250 8650
 Wire Wire Line
-	3350 8650 3550 8650
+	6050 8850 6250 8850
 Wire Wire Line
-	3350 8850 3550 8850
+	6250 8950 6050 8950
 Wire Wire Line
-	3550 8950 3350 8950
+	6050 9050 6250 9050
 Wire Wire Line
-	3350 9050 3550 9050
-Wire Wire Line
-	3350 9150 3550 9150
-Text Label 4250 8750 0    50   ~ 0
+	6050 9150 6250 9150
+Text Label 6950 8750 0    50   ~ 0
 GPIO12
-Text Label 4250 8850 0    50   ~ 0
+Text Label 6950 8850 0    50   ~ 0
 GPIO13
-Text Label 4250 8950 0    50   ~ 0
+Text Label 6950 8950 0    50   ~ 0
 GPIO14
-Text Label 4250 9050 0    50   ~ 0
+Text Label 6950 9050 0    50   ~ 0
 GPIO15
-Text Label 4250 9150 0    50   ~ 0
+Text Label 6950 9150 0    50   ~ 0
 GPIO16
 Text Label 5600 15250 0    50   ~ 0
 +12V
 Wire Wire Line
 	5600 15250 5450 15250
-Text Label 4250 9250 0    50   ~ 0
+Text Label 6950 9250 0    50   ~ 0
 +12V
-Text Label 3350 8050 2    50   ~ 0
+Text Label 6050 8050 2    50   ~ 0
 POWER_EN_3.3V
-Text Label 3350 8150 2    50   ~ 0
+Text Label 6050 8150 2    50   ~ 0
 POWER_EN_5V
-Text Label 3350 8250 2    50   ~ 0
-RST_B
 Text Label 7900 12300 0    50   ~ 0
 RST_B
 $Comp
 L power:GND #PWR0107
 U 1 1 5D61DC25
-P 3450 9500
-F 0 "#PWR0107" H 3450 9250 50  0001 C CNN
-F 1 "GND" H 3455 9327 50  0000 C CNN
-F 2 "" H 3450 9500 50  0001 C CNN
-F 3 "" H 3450 9500 50  0001 C CNN
-	1    3450 9500
+P 6150 9500
+F 0 "#PWR0107" H 6150 9250 50  0001 C CNN
+F 1 "GND" H 6155 9327 50  0000 C CNN
+F 2 "" H 6150 9500 50  0001 C CNN
+F 3 "" H 6150 9500 50  0001 C CNN
+	1    6150 9500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3450 9500 3450 9250
+	6150 9500 6150 9250
 Wire Wire Line
-	3450 8350 3550 8350
-Connection ~ 3450 8750
+	6150 8350 6250 8350
+Connection ~ 6150 8750
 Wire Wire Line
-	3450 8750 3550 8750
+	6150 8750 6250 8750
 Wire Wire Line
-	3450 8750 3450 8350
-Connection ~ 3450 9250
+	6150 8750 6150 8350
+Connection ~ 6150 9250
 Wire Wire Line
-	3450 9250 3450 8750
+	6150 9250 6150 8750
 Wire Wire Line
-	3450 9250 3550 9250
-Text Label 3350 8550 2    50   ~ 0
+	6150 9250 6250 9250
+Text Label 6050 8550 2    50   ~ 0
 GPIO17
-Text Label 3350 8650 2    50   ~ 0
+Text Label 6050 8650 2    50   ~ 0
 GPIO18
-Text Label 3350 8450 2    50   ~ 0
+Text Label 6050 8450 2    50   ~ 0
 +3V3
-Text Label 3350 8850 2    50   ~ 0
+Text Label 6050 8850 2    50   ~ 0
 5V_1
-Text Label 3350 8950 2    50   ~ 0
+Text Label 6050 8950 2    50   ~ 0
 GPIO21
-Text Label 3350 9050 2    50   ~ 0
+Text Label 6050 9050 2    50   ~ 0
 GPIO20
-Text Label 3350 9150 2    50   ~ 0
+Text Label 6050 9150 2    50   ~ 0
 GPIO19
 $Comp
 L Device:R R67
 U 1 1 5D6C52AE
-P 4950 8600
-F 0 "R67" H 5000 8550 50  0000 L CNN
-F 1 "10k 1%" H 4950 8450 50  0000 L CNN
-F 2 "LibreRouter_MegaBoard:R0402" V 4880 8600 50  0001 C CNN
-F 3 "~" H 4950 8600 50  0001 C CNN
-F 4 "Panasonic Electronic Components" H 4950 8600 50  0001 C CNN "Manufacturer"
-F 5 "ERJ-PA2F1002X" H 4950 8600 50  0001 C CNN "Manufacturer PN"
-F 6 "DigiKey" H 4950 8600 50  0001 C CNN "Supplier"
-F 7 "P17230DKR-ND" H 4950 8600 50  0001 C CNN "Supplier PN"
-	1    4950 8600
+P 2350 9100
+F 0 "R67" H 2400 9050 50  0000 L CNN
+F 1 "10k 1%" H 2350 8950 50  0000 L CNN
+F 2 "LibreRouter_MegaBoard:R0402" V 2280 9100 50  0001 C CNN
+F 3 "~" H 2350 9100 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 2350 9100 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 2350 9100 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2350 9100 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 2350 9100 50  0001 C CNN "Supplier PN"
+	1    2350 9100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R66
 U 1 1 5D6C533C
-P 5350 8600
-F 0 "R66" H 5400 8550 50  0000 L CNN
-F 1 "10k 1%" H 5350 8450 50  0000 L CNN
-F 2 "LibreRouter_MegaBoard:R0402" V 5280 8600 50  0001 C CNN
-F 3 "~" H 5350 8600 50  0001 C CNN
-F 4 "Panasonic Electronic Components" H 5350 8600 50  0001 C CNN "Manufacturer"
-F 5 "ERJ-PA2F1002X" H 5350 8600 50  0001 C CNN "Manufacturer PN"
-F 6 "DigiKey" H 5350 8600 50  0001 C CNN "Supplier"
-F 7 "P17230DKR-ND" H 5350 8600 50  0001 C CNN "Supplier PN"
-	1    5350 8600
+P 2800 9100
+F 0 "R66" H 2850 9050 50  0000 L CNN
+F 1 "10k 1%" H 2800 8950 50  0000 L CNN
+F 2 "LibreRouter_MegaBoard:R0402" V 2730 9100 50  0001 C CNN
+F 3 "~" H 2800 9100 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 2800 9100 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 2800 9100 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 2800 9100 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 2800 9100 50  0001 C CNN "Supplier PN"
+	1    2800 9100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R68
 U 1 1 5D6C5372
-P 5750 8600
-F 0 "R68" H 5800 8550 50  0000 L CNN
-F 1 "10k 1%" H 5750 8450 50  0000 L CNN
-F 2 "LibreRouter_MegaBoard:R0402" V 5680 8600 50  0001 C CNN
-F 3 "~" H 5750 8600 50  0001 C CNN
-F 4 "Panasonic Electronic Components" H 5750 8600 50  0001 C CNN "Manufacturer"
-F 5 "ERJ-PA2F1002X" H 5750 8600 50  0001 C CNN "Manufacturer PN"
-F 6 "DigiKey" H 5750 8600 50  0001 C CNN "Supplier"
-F 7 "P17230DKR-ND" H 5750 8600 50  0001 C CNN "Supplier PN"
-	1    5750 8600
+P 1850 9100
+F 0 "R68" H 1900 9050 50  0000 L CNN
+F 1 "10k 1%" H 1850 8950 50  0000 L CNN
+F 2 "LibreRouter_MegaBoard:R0402" V 1780 9100 50  0001 C CNN
+F 3 "~" H 1850 9100 50  0001 C CNN
+F 4 "Panasonic Electronic Components" H 1850 9100 50  0001 C CNN "Manufacturer"
+F 5 "ERJ-PA2F1002X" H 1850 9100 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 1850 9100 50  0001 C CNN "Supplier"
+F 7 "P17230DKR-ND" H 1850 9100 50  0001 C CNN "Supplier PN"
+	1    1850 9100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0108
 U 1 1 5D76D6D2
-P 5350 8900
-F 0 "#PWR0108" H 5350 8650 50  0001 C CNN
-F 1 "GND" H 5355 8727 50  0000 C CNN
-F 2 "" H 5350 8900 50  0001 C CNN
-F 3 "" H 5350 8900 50  0001 C CNN
-	1    5350 8900
+P 2350 9500
+F 0 "#PWR0108" H 2350 9250 50  0001 C CNN
+F 1 "GND" H 2355 9327 50  0000 C CNN
+F 2 "" H 2350 9500 50  0001 C CNN
+F 3 "" H 2350 9500 50  0001 C CNN
+	1    2350 9500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4050 8250 4800 8250
 $Comp
 L Connector:TestPoint TP3
 U 1 1 5D801B21
-P 4800 7750
-F 0 "TP3" H 4858 7870 50  0000 L CNN
-F 1 "TEST-POINT0.8MM" H 4858 7779 50  0000 L CNN
-F 2 "LibreRouter_MegaBoard:TEST_POINT_0.8MM" H 5000 7750 50  0001 C CNN
-F 3 "~" H 5000 7750 50  0001 C CNN
-F 4 "DNP" H 4800 7750 50  0001 C CNN "DNP"
-	1    4800 7750
+P 2200 7800
+F 0 "TP3" H 2258 7920 50  0000 L CNN
+F 1 "JTAG_TDO" H 2258 7829 50  0000 L CNN
+F 2 "LibreRouter_MegaBoard:TEST_POINT_0.8MM" H 2400 7800 50  0001 C CNN
+F 3 "~" H 2400 7800 50  0001 C CNN
+F 4 "DNP" H 2200 7800 50  0001 C CNN "DNP"
+	1    2200 7800
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4800 7750 4800 8250
-Connection ~ 4800 8250
-Wire Wire Line
-	4800 8250 8650 8250
 $Comp
 L Connector_Generic:Conn_01x05 GPS1
 U 1 1 5D984000
@@ -1210,15 +1178,6 @@ Wire Wire Line
 Wire Wire Line
 	3950 4650 3600 4650
 Wire Wire Line
-	4050 8350 4950 8350
-Wire Wire Line
-	4950 8750 4950 8850
-Wire Wire Line
-	4950 8450 4950 8350
-Connection ~ 4950 8350
-Wire Wire Line
-	4950 8350 8650 8350
-Wire Wire Line
 	13550 2550 16250 2550
 Wire Wire Line
 	16250 2650 13550 2650
@@ -1484,7 +1443,7 @@ Text Notes 1050 4350 0    236  ~ 0
 Toggle Button
 Text Notes 1000 6900 0    236  ~ 0
  UART\nHEADER
-Text Notes 1000 7900 0    236  ~ 0
+Text Notes 4250 7800 0    236  ~ 0
 Expose IOs
 Wire Notes Line
 	22000 14650 22000 11900
@@ -3447,8 +3406,6 @@ Wire Wire Line
 Connection ~ 3450 15700
 Wire Wire Line
 	3450 15700 3450 15600
-Text Label 7900 8250 0    50   ~ 0
-WD_PCIe0_WAKE
 Text Label 18650 2150 0    50   ~ 0
 WD_PCIe0_WAKE
 $Comp
@@ -3633,31 +3590,6 @@ Wire Wire Line
 	20850 9000 21100 9000
 Wire Wire Line
 	18650 8900 20850 8900
-Wire Wire Line
-	5750 8850 5750 8750
-Wire Wire Line
-	4950 8850 5350 8850
-Wire Wire Line
-	5750 8450 5750 8050
-Connection ~ 5750 8050
-Wire Wire Line
-	5750 8050 8650 8050
-Wire Wire Line
-	4050 8050 5750 8050
-Wire Wire Line
-	4050 8150 5350 8150
-Wire Wire Line
-	5350 8150 5350 8450
-Connection ~ 5350 8150
-Wire Wire Line
-	5350 8150 8650 8150
-Wire Wire Line
-	5350 8750 5350 8850
-Connection ~ 5350 8850
-Wire Wire Line
-	5350 8850 5750 8850
-Wire Wire Line
-	5350 8850 5350 8900
 Wire Wire Line
 	20750 3650 21750 3650
 Wire Wire Line
@@ -4137,4 +4069,164 @@ Wire Wire Line
 	17350 10750 17200 10750
 Wire Wire Line
 	17350 10450 17200 10450
+Text Label 1450 8600 0    50   ~ 0
+GPIO0
+Text Label 1450 8300 0    50   ~ 0
+GPIO1
+Text Label 1450 8500 0    50   ~ 0
+GPIO3
+Text Label 1450 8400 0    50   ~ 0
+WD_PCIe0_WAKE
+$Comp
+L power:GND #PWR0198
+U 1 1 5E96054A
+P 3900 9000
+F 0 "#PWR0198" H 3900 8750 50  0001 C CNN
+F 1 "GND" H 3905 8827 50  0000 C CNN
+F 2 "" H 3900 9000 50  0001 C CNN
+F 3 "" H 3900 9000 50  0001 C CNN
+	1    3900 9000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 8500 2350 8500
+Wire Wire Line
+	2350 8500 2350 8950
+Wire Wire Line
+	1450 8500 2350 8500
+Connection ~ 2350 8500
+Wire Wire Line
+	1450 8400 2200 8400
+Wire Wire Line
+	2200 8400 2200 7800
+Connection ~ 2200 8400
+Wire Wire Line
+	2200 8400 2950 8400
+Wire Wire Line
+	2350 9500 1850 9500
+Wire Wire Line
+	1850 9500 1850 9250
+Wire Wire Line
+	2800 9250 2800 9500
+Wire Wire Line
+	2800 9500 2350 9500
+Connection ~ 2350 9500
+Wire Wire Line
+	2350 9500 2350 9250
+Text Label 3600 8800 0    50   ~ 0
++3V3
+Text Notes 900  7900 0    236  ~ 0
+JTAG
+Wire Notes Line
+	4150 9900 4150 7400
+Text Label 1450 8700 0    50   ~ 0
+RST_B
+$Comp
+L Connector_Generic:Conn_02x07_Odd_Even J9
+U 1 1 5F339737
+P 3150 8500
+F 0 "J9" H 3200 9017 50  0000 C CNN
+F 1 "EJTAG" H 3200 8926 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Vertical" H 3150 8500 50  0001 C CNN
+F 3 "~" H 3150 8500 50  0001 C CNN
+F 4 "DNP" H 3150 8500 50  0001 C CNN "DNP"
+	1    3150 8500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 8600 1850 8600
+Wire Wire Line
+	1450 8300 2800 8300
+Wire Wire Line
+	2800 8950 2800 8300
+Connection ~ 2800 8300
+Wire Wire Line
+	2800 8300 2950 8300
+Wire Wire Line
+	1850 8950 1850 8600
+Connection ~ 1850 8600
+Wire Wire Line
+	1850 8600 2950 8600
+$Comp
+L Connector:TestPoint TP4
+U 1 1 5F57CF5E
+P 2700 7800
+F 0 "TP4" H 2758 7920 50  0000 L CNN
+F 1 "JTAG_TRST" H 2758 7829 50  0000 L CNN
+F 2 "LibreRouter_MegaBoard:TEST_POINT_0.8MM" H 2900 7800 50  0001 C CNN
+F 3 "~" H 2900 7800 50  0001 C CNN
+F 4 "DNP" H 2700 7800 50  0001 C CNN "DNP"
+	1    2700 7800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 7800 2700 8200
+Wire Wire Line
+	2700 8200 2950 8200
+Wire Wire Line
+	1450 8700 2950 8700
+NoConn ~ 2950 8800
+NoConn ~ 3450 8700
+Wire Wire Line
+	3450 8800 3600 8800
+Wire Wire Line
+	3450 8200 3900 8200
+Wire Wire Line
+	3900 8200 3900 8300
+Wire Wire Line
+	3450 8300 3900 8300
+Connection ~ 3900 8300
+Wire Wire Line
+	3900 8300 3900 8400
+Wire Wire Line
+	3450 8400 3900 8400
+Connection ~ 3900 8400
+Wire Wire Line
+	3900 8400 3900 8500
+Wire Wire Line
+	3450 8500 3900 8500
+Connection ~ 3900 8500
+Wire Wire Line
+	3900 8500 3900 8600
+Wire Wire Line
+	3450 8600 3900 8600
+Connection ~ 3900 8600
+Wire Wire Line
+	3900 8600 3900 9000
+Text Label 7950 8250 0    50   ~ 0
+WD_PCIe0_WAKE
+Text Label 7950 8350 0    50   ~ 0
+GPIO3
+Text Label 7950 8150 0    50   ~ 0
+GPIO1
+Text Label 7950 8050 0    50   ~ 0
+GPIO0
+Wire Wire Line
+	7950 8050 8650 8050
+Wire Wire Line
+	7950 8150 8650 8150
+Wire Wire Line
+	8650 8250 7950 8250
+Wire Wire Line
+	7950 8350 8650 8350
+NoConn ~ 6750 8050
+NoConn ~ 6750 8150
+NoConn ~ 6750 8250
+NoConn ~ 6750 8350
+$Comp
+L Connector_Generic:Conn_02x13_Odd_Even GPIO1
+U 1 1 5D446377
+P 6450 8650
+F 0 "GPIO1" H 6500 9550 50  0000 C CNN
+F 1 "Conn_02x13" H 6500 9450 50  0000 C CNN
+F 2 "LibreRouter_MegaBoard:2X13" H 6450 8650 50  0001 C CNN
+F 3 "~" H 6450 8650 50  0001 C CNN
+F 4 "Würth Elektronik" H 6450 8650 50  0001 C CNN "Manufacturer"
+F 5 "61302621121" H 6450 8650 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 6450 8650 50  0001 C CNN "Supplier"
+F 7 "732-5304-ND" H 6450 8650 50  0001 C CNN "Supplier PN"
+	1    6450 8650
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6250 8250
 $EndSCHEMATC
