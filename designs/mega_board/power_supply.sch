@@ -14,9 +14,9 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 5350 1400 2    50   BiDi ~ 0
-12V_OUT
+VCC_OUT
 Text HLabel 1500 1900 0    50   BiDi ~ 0
-12V_IN
+VCC_IN
 Text HLabel 9650 1600 2    50   BiDi ~ 0
 5V_0
 Text HLabel 9650 3300 2    50   BiDi ~ 0
@@ -30,22 +30,13 @@ Text HLabel 4650 5300 2    50   BiDi ~ 0
 Text HLabel 1500 1400 0    50   BiDi ~ 0
 POE_A
 $Sheet
-S 3300 5150 950  1000
-U 5D42CD47
-F0 "3.3V_1" 50
-F1 "rt7272_dcdc_3v3.sch" 50
-F2 "ENABLE" I L 3300 5950 50 
-F3 "3.3V" B R 4250 5300 50 
-F4 "12V" B L 3300 5300 50 
-$EndSheet
-$Sheet
 S 3300 3150 950  1000
 U 5D42E225
 F0 "3.3V_0" 50
 F1 "rt7272_dcdc_3v3.sch" 50
 F2 "ENABLE" I L 3300 3950 50 
-F3 "12V" B L 3300 3300 50 
-F4 "3.3V" B R 4250 3300 50 
+F3 "3.3V" B R 4250 3300 50 
+F4 "VCC" B L 3300 3300 50 
 $EndSheet
 $Comp
 L Device:R R60
@@ -120,8 +111,8 @@ U 5D4FC17D
 F0 "5V_0" 50
 F1 "rt7272_dcdc_5v.sch" 50
 F2 "ENABLE" I L 8250 2250 50 
-F3 "12V" B L 8250 1600 50 
-F4 "5V" B R 9250 1600 50 
+F3 "5V" B R 9250 1600 50 
+F4 "VCC" B L 8250 1600 50 
 $EndSheet
 Wire Wire Line
 	8250 1600 6800 1600
@@ -135,8 +126,8 @@ U 5D4FE12B
 F0 "5V_1" 50
 F1 "rt7272_dcdc_5v.sch" 50
 F2 "ENABLE" I L 8250 3950 50 
-F3 "12V" B L 8250 3300 50 
-F4 "5V" B R 9250 3300 50 
+F3 "5V" B R 9250 3300 50 
+F4 "VCC" B L 8250 3300 50 
 $EndSheet
 $Comp
 L Device:R R18
@@ -205,8 +196,8 @@ U 5D4FEB2F
 F0 "5V_2" 50
 F1 "rt7272_dcdc_5v.sch" 50
 F2 "ENABLE" I L 8250 5950 50 
-F3 "12V" B L 8250 5300 50 
-F4 "5V" B R 9250 5300 50 
+F3 "5V" B R 9250 5300 50 
+F4 "VCC" B L 8250 5300 50 
 $EndSheet
 Wire Wire Line
 	8250 5300 6800 5300
@@ -414,17 +405,17 @@ Connection ~ 3600 1400
 Wire Wire Line
 	3600 1400 2850 1400
 Text Label 5200 1400 0    50   ~ 0
-12V
+VCC
 Text Label 6800 1600 0    50   ~ 0
-12V
+VCC
 Text Label 6800 3300 0    50   ~ 0
-12V
+VCC
 Text Label 6800 5300 0    50   ~ 0
-12V
+VCC
 Text Label 1850 5300 0    50   ~ 0
-12V
+VCC
 Text Label 1850 3300 0    50   ~ 0
-12V
+VCC
 Text HLabel 1500 900  0    50   BiDi ~ 0
 POE_B
 $Comp
@@ -451,4 +442,13 @@ Wire Wire Line
 	2450 1400 2450 1900
 Wire Wire Line
 	2450 900  2450 1400
+$Sheet
+S 3300 5150 950  1000
+U 5D42CD47
+F0 "3.3V_1" 50
+F1 "rt7272_dcdc_3v3.sch" 50
+F2 "ENABLE" I L 3300 5950 50 
+F3 "3.3V" B R 4250 5300 50 
+F4 "VCC" B L 3300 5300 50 
+$EndSheet
 $EndSCHEMATC

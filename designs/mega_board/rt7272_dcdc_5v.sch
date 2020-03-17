@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 8 14
+Sheet 7 14
 Title ""
 Date ""
 Rev ""
@@ -365,7 +365,7 @@ $EndComp
 Text HLabel 3850 3450 0    50   Input ~ 0
 ENABLE
 Text HLabel 1650 3350 0    50   BiDi ~ 0
-12V
+VCC
 Text HLabel 10100 3450 2    50   BiDi ~ 0
 5V
 Wire Wire Line
