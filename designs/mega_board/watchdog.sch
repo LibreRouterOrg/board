@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:LibreRouter_MegaBoard-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -31,7 +30,7 @@ RST_J+
 Text HLabel 6250 3500 2    50   Input ~ 0
 RST_J-
 $Comp
-L MCU_Microchip_ATtiny:ATtiny13-20SSU WDT1
+L LibreRouter_MegaBoard-rescue:ATtiny13-20SSU-MCU_Microchip_ATtiny WDT1
 U 1 1 5D14FFA1
 P 4700 3400
 F 0 "WDT1" H 4750 3450 50  0000 R CNN
