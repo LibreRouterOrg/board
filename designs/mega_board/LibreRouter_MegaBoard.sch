@@ -662,143 +662,125 @@ Wire Wire Line
 Wire Wire Line
 	4050 11150 4050 11350
 Wire Wire Line
-	7950 8650 8650 8650
-Text Label 7950 8650 0    50   ~ 0
+	7700 8650 8650 8650
+Text Label 7700 8650 0    50   ~ 0
 GPIO4
 Wire Wire Line
-	7950 8750 8650 8750
-Text Label 7950 8750 0    50   ~ 0
-GPIO12
-Text Label 7900 10500 0    50   ~ 0
-GPIO13
+	7700 8750 8650 8750
+Text Label 4050 10500 0    50   ~ 0
+GPIO13-GPS_PPS
 Wire Wire Line
-	7950 8850 8650 8850
-Text Label 7950 8850 0    50   ~ 0
-GPIO14
-Text Label 7900 10300 0    50   ~ 0
-GPIO15
-Text Label 7900 10400 0    50   ~ 0
-GPIO16
+	7700 8850 8650 8850
 Text Label 7950 4650 0    50   ~ 0
 GPIO17
 Wire Wire Line
-	7950 8950 8650 8950
-Text Label 7950 8950 0    50   ~ 0
+	7700 8950 8650 8950
+Text Label 7700 8950 0    50   ~ 0
 GPIO18
 Wire Wire Line
-	7950 9050 8650 9050
-Text Label 7950 9050 0    50   ~ 0
+	7700 9050 8650 9050
+Text Label 7700 9050 0    50   ~ 0
 GPIO19
 Wire Wire Line
-	7950 9150 8650 9150
-Text Label 7950 9150 0    50   ~ 0
+	7700 9150 8650 9150
+Text Label 7700 9150 0    50   ~ 0
 GPIO21
 Text Label 7900 6400 0    50   ~ 0
 UART_SIN
 Text Label 7900 6500 0    50   ~ 0
 UART_SOUT
 Wire Wire Line
-	6750 8450 6950 8450
+	5550 8600 5750 8600
 Wire Wire Line
-	6950 8550 6750 8550
+	5750 8700 5550 8700
 Wire Wire Line
-	6750 8650 6950 8650
+	5550 8800 5750 8800
 Wire Wire Line
-	6750 8750 6950 8750
+	5550 8900 5750 8900
 Wire Wire Line
-	6750 8850 6950 8850
+	5550 9000 5750 9000
 Wire Wire Line
-	6950 8950 6750 8950
+	5750 9100 5550 9100
 Wire Wire Line
-	6750 9050 6950 9050
+	5550 9200 5750 9200
 Wire Wire Line
-	6750 9150 6950 9150
+	5550 9300 5750 9300
 Wire Wire Line
-	6750 9250 6950 9250
-Text Label 6950 8450 0    50   ~ 0
+	5550 9400 5750 9400
+Text Label 5750 8600 0    50   ~ 0
 GPIO4
-Text Label 6950 8550 0    50   ~ 0
+Text Label 5750 8700 0    50   ~ 0
 UART_SIN
-Text Label 6950 8650 0    50   ~ 0
+Text Label 5750 8800 0    50   ~ 0
 UART_SOUT
 Wire Wire Line
-	6050 8050 6250 8050
+	4850 8200 5050 8200
 Wire Wire Line
-	6250 8150 6050 8150
+	5050 8300 4850 8300
 Wire Wire Line
-	6050 8450 6250 8450
+	4850 8600 5050 8600
 Wire Wire Line
-	6250 8550 6050 8550
+	5050 8700 4850 8700
 Wire Wire Line
-	6050 8650 6250 8650
+	4850 8800 5050 8800
 Wire Wire Line
-	6050 8850 6250 8850
+	4850 9000 5050 9000
 Wire Wire Line
-	6250 8950 6050 8950
+	5050 9100 4850 9100
 Wire Wire Line
-	6050 9050 6250 9050
+	4850 9200 5050 9200
 Wire Wire Line
-	6050 9150 6250 9150
-Text Label 6950 8750 0    50   ~ 0
-GPIO12
-Text Label 6950 8850 0    50   ~ 0
-GPIO13
-Text Label 6950 8950 0    50   ~ 0
-GPIO14
-Text Label 6950 9050 0    50   ~ 0
-GPIO15
-Text Label 6950 9150 0    50   ~ 0
-GPIO16
+	4850 9300 5050 9300
 Text Label 5600 15250 0    50   ~ 0
 +12V
 Wire Wire Line
 	5600 15250 5450 15250
-Text Label 6950 9250 0    50   ~ 0
+Text Label 5750 9400 0    50   ~ 0
 +12V
-Text Label 6050 8050 2    50   ~ 0
+Text Label 4850 8200 2    50   ~ 0
 POWER_EN_3.3V
-Text Label 6050 8150 2    50   ~ 0
+Text Label 4850 8300 2    50   ~ 0
 POWER_EN_5V
 Text Label 7900 12300 0    50   ~ 0
 RST_B
 $Comp
 L power:GND #PWR0107
 U 1 1 5D61DC25
-P 6150 9500
-F 0 "#PWR0107" H 6150 9250 50  0001 C CNN
-F 1 "GND" H 6155 9327 50  0000 C CNN
-F 2 "" H 6150 9500 50  0001 C CNN
-F 3 "" H 6150 9500 50  0001 C CNN
-	1    6150 9500
+P 4950 9500
+F 0 "#PWR0107" H 4950 9250 50  0001 C CNN
+F 1 "GND" H 4955 9327 50  0000 C CNN
+F 2 "" H 4950 9500 50  0001 C CNN
+F 3 "" H 4950 9500 50  0001 C CNN
+	1    4950 9500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6150 9500 6150 9250
+	4950 9500 4950 9400
 Wire Wire Line
-	6150 8350 6250 8350
-Connection ~ 6150 8750
+	4950 8500 5050 8500
+Connection ~ 4950 8900
 Wire Wire Line
-	6150 8750 6250 8750
+	4950 8900 5050 8900
 Wire Wire Line
-	6150 8750 6150 8350
-Connection ~ 6150 9250
+	4950 8900 4950 8500
+Connection ~ 4950 9400
 Wire Wire Line
-	6150 9250 6150 8750
+	4950 9400 4950 8900
 Wire Wire Line
-	6150 9250 6250 9250
-Text Label 6050 8550 2    50   ~ 0
+	4950 9400 5050 9400
+Text Label 4850 8700 2    50   ~ 0
 GPIO17
-Text Label 6050 8650 2    50   ~ 0
+Text Label 4850 8800 2    50   ~ 0
 GPIO18
-Text Label 6050 8450 2    50   ~ 0
+Text Label 4850 8600 2    50   ~ 0
 +3V3
-Text Label 6050 8850 2    50   ~ 0
+Text Label 4850 9000 2    50   ~ 0
 5V_1
-Text Label 6050 8950 2    50   ~ 0
+Text Label 4850 9100 2    50   ~ 0
 GPIO21
-Text Label 6050 9050 2    50   ~ 0
+Text Label 4850 9200 2    50   ~ 0
 GPIO20
-Text Label 6050 9150 2    50   ~ 0
+Text Label 4850 9300 2    50   ~ 0
 GPIO19
 $Comp
 L Device:R R67
@@ -904,7 +886,7 @@ $EndComp
 Wire Wire Line
 	3950 10600 4050 10600
 Wire Wire Line
-	4400 10200 3950 10200
+	4050 10200 3950 10200
 $Comp
 L Connector_Generic:Conn_01x04 UART1
 U 1 1 5DB76F0E
@@ -3089,10 +3071,6 @@ Wire Wire Line
 	19450 2550 19150 2550
 Wire Wire Line
 	18300 2550 18850 2550
-Text Label 18650 4500 0    50   ~ 0
-GPIO3
-Text Label 18650 2350 0    50   ~ 0
-GPIO12
 $Comp
 L Device:C C39
 U 1 1 5D46CAA5
@@ -3353,8 +3331,6 @@ F 3 "" H 19050 13900 50  0001 C CNN
 	1    19050 13900
 	1    0    0    -1  
 $EndComp
-Text Label 18450 9800 0    50   ~ 0
-GPIO1
 Text Label 18450 9700 0    50   ~ 0
 +12V
 $Comp
@@ -3594,8 +3570,6 @@ Wire Wire Line
 	20750 3650 21750 3650
 Wire Wire Line
 	21750 3650 21750 3300
-Text Label 18650 4700 0    50   ~ 0
-GPIO14
 Text Label 14400 3850 0    50   ~ 0
 +3V3_PCIE
 Wire Wire Line
@@ -3712,7 +3686,7 @@ F 4 "DNP" H 9850 14700 50  0001 C CNN "DNP"
 	1    9850 14700
 	1    0    0    -1  
 $EndComp
-Text Label 4400 10200 0    50   ~ 0
+Text Label 4050 10200 0    50   ~ 0
 +3V3
 Text Label 3050 15000 0    50   ~ 0
 POE_B
@@ -4070,13 +4044,13 @@ Wire Wire Line
 Wire Wire Line
 	17350 10450 17200 10450
 Text Label 1450 8600 0    50   ~ 0
-GPIO0
+GPIO0-EJTAG_TCK
 Text Label 1450 8300 0    50   ~ 0
-GPIO1
+GPIO1-EJTAG_TDI
 Text Label 1450 8500 0    50   ~ 0
-GPIO3
+GPIO3-EJTAG_TMS
 Text Label 1450 8400 0    50   ~ 0
-WD_PCIe0_WAKE
+GPIO2-EJTAG_TDO
 $Comp
 L power:GND #PWR0198
 U 1 1 5E96054A
@@ -4194,13 +4168,13 @@ Connection ~ 3900 8600
 Wire Wire Line
 	3900 8600 3900 9000
 Text Label 7950 8250 0    50   ~ 0
-WD_PCIe0_WAKE
+GPIO2-EJTAG_TDO
 Text Label 7950 8350 0    50   ~ 0
-GPIO3
+GPIO3-EJTAG_TMS
 Text Label 7950 8150 0    50   ~ 0
-GPIO1
+GPIO1-EJTAG_TDI
 Text Label 7950 8050 0    50   ~ 0
-GPIO0
+GPIO0-EJTAG_TCK
 Wire Wire Line
 	7950 8050 8650 8050
 Wire Wire Line
@@ -4209,24 +4183,76 @@ Wire Wire Line
 	8650 8250 7950 8250
 Wire Wire Line
 	7950 8350 8650 8350
-NoConn ~ 6750 8050
-NoConn ~ 6750 8150
-NoConn ~ 6750 8250
-NoConn ~ 6750 8350
+NoConn ~ 5550 8200
+NoConn ~ 5550 8300
+NoConn ~ 5550 8400
+NoConn ~ 5550 8500
 $Comp
 L Connector_Generic:Conn_02x13_Odd_Even GPIO1
 U 1 1 5D446377
-P 6450 8650
-F 0 "GPIO1" H 6500 9550 50  0000 C CNN
-F 1 "Conn_02x13" H 6500 9450 50  0000 C CNN
-F 2 "LibreRouter_MegaBoard:2X13" H 6450 8650 50  0001 C CNN
-F 3 "~" H 6450 8650 50  0001 C CNN
-F 4 "Würth Elektronik" H 6450 8650 50  0001 C CNN "Manufacturer"
-F 5 "61302621121" H 6450 8650 50  0001 C CNN "Manufacturer PN"
-F 6 "DigiKey" H 6450 8650 50  0001 C CNN "Supplier"
-F 7 "732-5304-ND" H 6450 8650 50  0001 C CNN "Supplier PN"
-	1    6450 8650
+P 5250 8800
+F 0 "GPIO1" H 5300 9700 50  0000 C CNN
+F 1 "Conn_02x13" H 5300 9600 50  0000 C CNN
+F 2 "LibreRouter_MegaBoard:2X13" H 5250 8800 50  0001 C CNN
+F 3 "~" H 5250 8800 50  0001 C CNN
+F 4 "Würth Elektronik" H 5250 8800 50  0001 C CNN "Manufacturer"
+F 5 "61302621121" H 5250 8800 50  0001 C CNN "Manufacturer PN"
+F 6 "DigiKey" H 5250 8800 50  0001 C CNN "Supplier"
+F 7 "732-5304-ND" H 5250 8800 50  0001 C CNN "Supplier PN"
+	1    5250 8800
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6250 8250
+NoConn ~ 5050 8400
+Text Label 7650 9650 0    50   ~ 0
+WD_PCIe0_WAKE
+Text Label 7500 9650 2    50   ~ 0
+GPIO2-EJTAG_TDO
+Text Label 7650 9500 0    50   ~ 0
+POE_INJECT_SOFT_EN
+Text Label 18450 9800 0    50   ~ 0
+POE_INJECT_SOFT_EN
+Text Label 7500 9500 2    50   ~ 0
+GPIO1-EJTAG_TDI
+Wire Wire Line
+	7650 9500 7500 9500
+Text Label 7650 9800 0    50   ~ 0
+WD_PCIe1_WAKE
+Text Label 7500 9800 2    50   ~ 0
+GPIO3-EJTAG_TMS
+Wire Wire Line
+	7500 9800 7650 9800
+Text Label 18650 4500 0    50   ~ 0
+WD_PCIe1_WAKE
+Text Label 4050 10400 0    50   ~ 0
+GPIO16-GPS_UART_TX
+Text Label 4050 10300 0    50   ~ 0
+GPIO15-GPS_UART_RX
+Text Label 5750 9200 0    50   ~ 0
+GPIO15-GPS_UART_RX
+Text Label 5750 9300 0    50   ~ 0
+GPIO16-GPS_UART_TX
+Text Label 5750 9000 0    50   ~ 0
+GPIO13-GPS_PPS
+Text Label 5750 8900 0    50   ~ 0
+GPIO12-PCIe0_nDISABLE
+Text Label 5750 9100 0    50   ~ 0
+GPIO14-PCIe1_nDISABLE
+Text Label 18650 2350 0    50   ~ 0
+GPIO12-PCIe0_nDISABLE
+Text Label 18650 4700 0    50   ~ 0
+GPIO14-PCIe1_nDISABLE
+Wire Wire Line
+	7500 9650 7650 9650
+Text Notes 6850 9350 0    50   ~ 0
+Alternate GPIO functions
+Wire Notes Line
+	6750 9250 8500 9250
+Wire Notes Line
+	8500 9250 8500 9900
+Wire Notes Line
+	6750 9250 6750 9900
+Text Label 7700 8750 0    50   ~ 0
+GPIO12-PCIe0_nDISABLE
+Text Label 7700 8850 0    50   ~ 0
+GPIO14-PCIe1_nDISABLE
 $EndSCHEMATC
