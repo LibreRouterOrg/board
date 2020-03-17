@@ -3318,8 +3318,6 @@ Wire Wire Line
 Wire Wire Line
 	2550 14450 3800 14450
 Connection ~ 2550 14450
-Wire Wire Line
-	3400 4950 3400 5300
 $Comp
 L power:GND #PWR0120
 U 1 1 5D08F236
@@ -4255,4 +4253,9 @@ Text Label 7700 8750 0    50   ~ 0
 GPIO12-PCIe0_nDISABLE
 Text Label 7700 8850 0    50   ~ 0
 GPIO14-PCIe1_nDISABLE
+Wire Wire Line
+	3400 4950 3400 5050
+Connection ~ 3400 5050
+Wire Wire Line
+	3400 5050 3400 5300
 $EndSCHEMATC
